@@ -1,0 +1,44 @@
+{
+  "name": "gatsby-react-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "lint": "eslint src",
+    "format": "npm run lint -- --fix"
+  },
+  "author": "Prototype Interactive",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^7.1.6",
+    "bootstrap": "^4.0.0-beta.2",
+    "cross-env": "^5.1.1",
+    "eslint": "^4.11.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.5.1",
+    "gatsby": "^1.9.119",
+    "gatsby-link": "^1.6.28",
+    "gatsby-plugin-google-analytics": "^1.0.12",
+    "gatsby-plugin-postcss-sass": "^1.0.13",
+    "gatsby-plugin-react-helmet": "^1.0.8",
+    "gatsby-plugin-react-next": "^1.0.4",
+    "gatsby-source-filesystem": "^1.5.8",
+    "gatsby-transformer-json": "^1.0.12",
+    "pixrem": "^4.0.1",
+    "svg-sprite-loader": "^3.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrototypeInteractive/gatsby-react-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PrototypeInteractive/gatsby-react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/PrototypeInteractive/gatsby-react-boilerplate#readme"
+}
