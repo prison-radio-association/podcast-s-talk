@@ -1,0 +1,21 @@
+backend:
+  name: test-repo
+
+# publish_mode: editorial_workflow
+
+media_folder: static/assets
+public_folder: /assets
+
+collections:
+  - name: "episodes"
+    label: "Episodes"
+    folder: "static/content/episodes"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "episode"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Audio", name: "audio", widget: "string"}
+      - {label: "Transcript", name: "body", widget: "markdown"}

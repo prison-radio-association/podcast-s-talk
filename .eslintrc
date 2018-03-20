@@ -12,5 +12,8 @@
         {
             "aspects": ["invalidHref"]
         }]
+    },
+    "globals": {
+        "graphql": true
     }
 }

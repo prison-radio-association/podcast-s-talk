@@ -12,7 +12,13 @@
   },
   "author": "Prototype Interactive",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "gatsby-plugin-netlify-cms": "^1.0.12",
+    "gatsby-plugin-sharp": "^1.6.41",
+    "gatsby-transformer-remark": "^1.7.37",
+    "gatsby-transformer-sharp": "^1.6.22"
+  },
   "devDependencies": {
     "autoprefixer": "^7.1.6",
     "bootstrap": "^4.0.0-beta.2",

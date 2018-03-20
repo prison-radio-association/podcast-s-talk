@@ -3,3 +3,16 @@
 @import 'bootstrap';
 @import 'global';
 @import 'typography';
+
+@import 'components/hero';
+@import 'components/navbar';
+
+.glow {
+  box-shadow: 0 0 5px 2px $primary,
+    inset 0 0 5px 2px $primary;
+  border-width: 2px;
+}
+
+.container-fluid {
+  max-width: 1000px;
+}

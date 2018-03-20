@@ -4,7 +4,7 @@ import './_how-to.scss';
 
 const NewsListing = props =>
   (<section className="howto" id="howto">
-    <div className="container">
+    <div className="container-fluid">
       <div className="row">
         <div className="col-12">
           <h4 className="howto-title">How to</h4>

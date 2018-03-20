@@ -1,24 +1,31 @@
+/* global graphql */
+
 import React from 'react';
-import PropTypes from 'prop-types';
 import Helmet from 'react-helmet';
-import Header from '../components/header';
+import Nav from '../components/nav';
 import Footer from '../components/footer';
 
 import '../../sass/style.scss';
 
-const TemplateWrapper = ({ children }) => (
+const TemplateWrapper = ({ children, data: { site: { siteMetadata: { title } } } }) => (
   <div>
-    <Helmet
-      title="Gatsby React Boilerplate"
-    />
-    <Header />
+    <Helmet title={title}>
+      <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet" />
+    </Helmet>
+    <Nav />
     {children()}
     <Footer />
   </div>
 );
 
-TemplateWrapper.propTypes = {
-  children: PropTypes.func,
-};
+export const query = graphql`
+  query LayoutQuery {
+    site {
+      siteMetadata {
+        title
+      }
+    }
+  }
+`;
 
 export default TemplateWrapper;

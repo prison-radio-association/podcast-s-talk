@@ -3,31 +3,39 @@ const autoprefixer = require('autoprefixer');
 
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
+    title: 'Sex Talk',
   },
   plugins: [
-    `gatsby-plugin-react-next`,
-    `gatsby-plugin-react-helmet`,
-    `svgo`,
     {
-      resolve: `gatsby-plugin-postcss-sass`,
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/static/content`,
+        name: 'pages',
+      },
+    },
+    'gatsby-plugin-react-helmet',
+    'gatsby-plugin-react-next',
+    'svgo',
+    {
+      resolve: 'gatsby-plugin-postcss-sass',
       options: {
         postCssPlugins: [
           pixrem(),
           autoprefixer({
             browsers: ['last 2 versions']
-          })
+          }),
         ],
-        precision: 8
-      }
-    },
-    {
-      resolve: `gatsby-source-filesystem`,
-      options: {
-        name: `data`,
-        path: `${__dirname}/src/data/`,
+        precision: 8,
       },
     },
-    `gatsby-transformer-json`
+    'gatsby-transformer-remark',
+    {
+      resolve: 'gatsby-plugin-netlify-cms',
+      // options: {
+      //   modulePath: `${__dirname}/src/cms/cms.js`,
+      // },
+    },
+    'gatsby-plugin-sharp',
+    'gatsby-transformer-sharp',
   ],
-}
+};

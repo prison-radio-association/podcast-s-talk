@@ -1,0 +1,79 @@
+$nav-link-color: $white;
+
+@keyframes neon {
+  from {
+    text-shadow:
+      0 0 10px #fff,
+      0 0 20px #fff,
+      0 0 30px #fff,
+      0 0 40px $nav-link-color,
+      0 0 70px $nav-link-color,
+      0 0 80px $nav-link-color;
+  }
+  to {
+    text-shadow:
+      0 0 0px #fff,
+      0 0 0px #fff,
+      0 0 3px #fff,
+      0 0 20px $nav-link-color,
+      0 0 30px $nav-link-color,
+      0 0 35px $nav-link-color;
+  }
+}
+
+#mainNav {
+  background-color: $black;
+  transition: all .2s;
+
+  &:after {
+    content: "";
+    display: none;
+    height: 2px;
+    width: 100%;
+    background: #fdfacd;
+    box-shadow: 0 0 3px 2px rgba(246, 215, 99, .5);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+
+  .navbar-brand {
+    &__logo {
+      width: 50px;
+    }
+  }
+
+  .navbar-nav {
+    > li.nav-item {
+      > a.nav-link,
+      > a.nav-link:focus {
+        font-size: .9rem;
+        font-weight: 700;
+        color: $nav-link-color;
+        text-transform: uppercase;
+        transition: all 0.5s;
+        text-decoration: none;
+
+        &:hover {
+          animation: neon 1.5s ease-in-out infinite alternate;
+        }
+
+        &.active {
+          color: $primary !important;
+          background-color: transparent;
+
+          &:hover {
+            background-color: transparent;
+          }
+        }
+      }
+    }
+  }
+
+  @media (min-width: 992px) {
+    .navbar-nav > li.nav-item > a.nav-link {
+      padding: 0.5rem 1rem;
+    }
+  }
+}

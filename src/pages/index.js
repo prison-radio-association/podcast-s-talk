@@ -1,30 +1,25 @@
-/* global graphql */
-
 import React from 'react';
-import Features from '../components/features';
-import HowTo from '../components/how-to';
+import Hero from '../components/hero';
 
-const IndexPage = props =>
-  (<main>
-    <Features data={props.data.allDataJson.edges[0].node.features} />
-    <HowTo data={props.data.allDataJson.edges[0].node.howTo} />
-  </main>);
+const IndexPage = ({ data: { allMarkdownRemark: { edges } } }) => (
+  <main>{console.log(edges)}
+    <Hero episode={edges[0]} />
+  </main>
+);
 
-export default IndexPage;
-
-export const pageQuery = graphql`
+export const query = graphql`
   query IndexQuery {
-    allDataJson {
+    allMarkdownRemark(
+      filter: { frontmatter: { templateKey: { eq: "episode" } } },
+      sort: { order: ASC, fields: [frontmatter___date] }
+    ) {
       edges {
         node {
-          features {
-            title
-          }
-          howTo {
-            title
-          }
+          ...EpisodeFragment
         }
       }
     }
   }
 `;
+
+export default IndexPage;
