@@ -1,9 +1,9 @@
 ---
 templateKey: episode
-title: First Episode
+title: "Lorem Doler Ipsum: Sit Amet"
 path: /test
 date: 2018-03-10
-description: Just a description
+description: Integer elementum bibendum augue non tincidunt. Nullam malesuada tellus in ipsum fermentum vehicula. Quisque et augue orci.
 audio: http://traffic.libsyn.com/sextalk/Sex_Talk_Podcast_Promo.mp3
 ---
 ### Transcript

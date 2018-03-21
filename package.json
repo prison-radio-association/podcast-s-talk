@@ -17,7 +17,10 @@
     "gatsby-plugin-netlify-cms": "^1.0.12",
     "gatsby-plugin-sharp": "^1.6.41",
     "gatsby-transformer-remark": "^1.7.37",
-    "gatsby-transformer-sharp": "^1.6.22"
+    "gatsby-transformer-sharp": "^1.6.22",
+    "react-media-player": "^0.7.0",
+    "react-redux": "^5.0.7",
+    "react-router-dom": "^4.2.2"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.6",
