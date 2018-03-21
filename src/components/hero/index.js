@@ -2,7 +2,6 @@
 
 import React from 'react';
 import Episode from '../episode';
-import logo from './logo.jpg';
 
 // const renderLatestEpisode = episodes => episodes.edges
 

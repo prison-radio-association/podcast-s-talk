@@ -6,6 +6,7 @@
 
 @import 'components/hero';
 @import 'components/navbar';
+@import 'components/media';
 
 .glow {
   box-shadow: 0 0 5px 2px $primary,
@@ -14,5 +15,5 @@
 }
 
 .container-fluid {
-  max-width: 1000px;
+  max-width: 1200px;
 }

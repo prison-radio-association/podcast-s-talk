@@ -4,6 +4,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import Nav from '../components/nav';
 import Footer from '../components/footer';
+import MediaPlayer from '../components/media-player';
 
 import '../../sass/style.scss';
 
@@ -15,6 +16,7 @@ const TemplateWrapper = ({ children, data: { site: { siteMetadata: { title } } }
     <Nav />
     {children()}
     <Footer />
+    <MediaPlayer />
   </div>
 );
 
