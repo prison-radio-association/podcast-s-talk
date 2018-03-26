@@ -1,0 +1,16 @@
+.episode {
+  .play-pause {
+    fill: $primary;
+    line-height: 1;
+  }
+}
+
+.media--episode {
+  box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, .3);
+}
+
+// .episodes {
+//   .row + .row {
+//     margin-top: 2em;
+//   }
+// }

@@ -15,7 +15,12 @@ module.exports = {
     },
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-react-next',
-    'svgo',
+    {
+      resolve: '@jacobmischka/gatsby-plugin-react-svg',
+      options: {
+          // include: /assets/
+      }
+    },
     {
       resolve: 'gatsby-plugin-postcss-sass',
       options: {

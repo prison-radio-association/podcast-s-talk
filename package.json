@@ -13,6 +13,7 @@
   "author": "Prototype Interactive",
   "license": "MIT",
   "dependencies": {
+    "@jacobmischka/gatsby-plugin-react-svg": "^1.1.0",
     "classnames": "^2.2.5",
     "gatsby-plugin-netlify-cms": "^1.0.12",
     "gatsby-plugin-sharp": "^1.6.41",

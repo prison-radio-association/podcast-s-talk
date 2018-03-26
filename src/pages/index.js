@@ -1,9 +1,11 @@
 import React from 'react';
 import Hero from '../components/hero';
+import Episodes from '../components/episodes';
 
 const IndexPage = ({ data: { allMarkdownRemark: { edges } } }) => (
-  <main>{console.log(edges)}
+  <main>
     <Hero episode={edges[0]} />
+    <Episodes episodes={edges} />
   </main>
 );
 

@@ -1,9 +1,5 @@
-/* global graphql */
-
 import React from 'react';
 import Episode from '../episode';
-
-// const renderLatestEpisode = episodes => episodes.edges
 
 const Hero = ({ episode }) => (
   <header className="masthead d-flex pt-lg-6">
@@ -12,9 +8,6 @@ const Hero = ({ episode }) => (
         <div className="media text-white">
           <Episode className="media-body" {...episode.node} />
         </div>
-        {/* <div className="masthead__logo mb-auto mb-sm-0 mt-sm-auto">
-          <img src={logo} alt="Sex Talk" />
-        </div> */}
       </div>
     </div>
   </header>
