@@ -1,6 +1,9 @@
 import React from 'react';
 import { Router } from 'react-router-dom';
 import { Provider } from 'react-redux';
+import { configureAnchors } from 'react-scrollable-anchor'
+
+configureAnchors({ offset: -56, scrollDuration: 400 })
 
 import createStore from './src/store';
 

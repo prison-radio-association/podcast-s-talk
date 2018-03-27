@@ -1,24 +1,25 @@
 .masthead {
   padding-top: 70px;
-  height: 100vh;
 
   .has-media-bar & {
     padding-bottom: 45px;
   }
 
   @media screen and (orientation: portrait) {
-    max-height: 670px;
+    // max-height: 670px;
   }
-
+  
   &__content {
     background: url('/assets/logo.jpg');
     background-position: center 10%;
     background-size: 70% auto;
     background-repeat: no-repeat;
+    flex-direction: column-reverse;
 
     @media screen and (orientation: landscape), screen and (min-width: breakpoint-min(sm)) {
       background-position: right center;
-      background-size: 40% auto;
+      background-size: contain;
+      flex-direction: row;
     }
   }
 
@@ -41,20 +42,6 @@
       padding-bottom: 95px;
     }
   }
-
-  &__logo {
-    > img {
-      max-width: 100%;
-
-      @include media-breakpoint-up(md) {
-        max-width: 300px;
-      }
-    
-      @include media-breakpoint-up(lg) {
-        max-width: 350px;
-      }
-    }
-  }
   
   .episode {
     &__title {
@@ -73,8 +60,13 @@
     &__description {
       font-size: 14px;
 
+      @media screen and (max-width: breakpoint-max(xs)) and (orientation: portrait) {
+        font-size: 16px;
+        margin-bottom: 30px;
+      }
+
       @media screen and (max-width: breakpoint-max(sm)) and (orientation: portrait) {
-        font-size: 20px;
+        font-size: 18px;
         margin-bottom: 30px;
       }
 

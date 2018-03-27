@@ -6,6 +6,7 @@
 
 @import 'components/hero';
 @import 'components/navbar';
+@import 'components/media-player';
 @import 'components/media';
 @import 'components/episode';
 
@@ -17,4 +18,20 @@
 
 .container-fluid {
   max-width: 1200px;
+}
+
+.page {
+  padding-top: 70px;
+
+  .has-media-bar & {
+    padding-bottom: 45px;
+  }
+}
+
+.episodes {
+  box-shadow: inset 0px 6px 6px -6px $black;
+}
+
+.about {
+  box-shadow: inset 0px 6px 6px -6px $dark, inset 0px -6px 6px -6px $dark;
 }

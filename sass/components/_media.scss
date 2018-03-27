@@ -1,135 +1,27 @@
-$range-color: $secondary;
+.media--episode-teaser {
+  flex-direction: column;
 
-@keyframes spin {
-  from {transform:rotate(0deg);}
-  to {transform:rotate(360deg);}
-}
-
-.mediabar {
-  background: $black;
-  height: 45px;
-}
-
-.play-pause,
-.mute-unmute {
-  > svg {
-    width: 20px;
-    height: 20px;
+  .media__image {
+    width: 100%;
+    height: 200px;
+    background-size: cover;
+    background-position: center center;
+    margin-bottom: 20px;
   }
 
-  &--loading > svg {
-    animation-name: spin;
-    animation-duration: .5s;
-    animation-iteration-count: infinite;
-    animation-timing-function: linear;
-  }
-}
+  @media screen and (max-width: breakpoint-max(sm)) and (orientation: landscape) {
+    flex-direction: row;
+    padding-left: 310px;
+    position: relative;
 
-.media-player {
-  &__controls {
-    .play-pause,
-    .mute-unmute {
-      background: none;
-      border: 0;
-      padding: 0;
-      fill: $white;
-      line-height: 1;
-      cursor: pointer;
-      outline: none;
-    }
-
-    .seekbar {
-      width: 100%;
-    }
-
-    .volumebar {
-      max-width: 180px;
+    .media__image {
+      position: absolute;
+      height: auto;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      width: 280px;
+      margin-bottom: 0;
     }
   }
-}
-
-input[type=range] {
-  -webkit-appearance: none;
-  width: 100%;
-  margin: 0.7px 0;
-}
-input[type=range]:focus {
-  outline: none;
-}
-input[type=range]::-webkit-slider-runnable-track {
-  width: 100%;
-  height: 25.6px;
-  cursor: pointer;
-  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
-  background: #484d4d;
-  border-radius: 0px;
-  border: 0px solid #010101;
-}
-input[type=range]::-webkit-slider-thumb {
-  box-shadow: 0px 0px 1px darken($range-color, 10%), 0px 0px 0px darken($range-color, 20%);
-  border: 0px solid $range-color;
-  height: 27px;
-  width: 18px;
-  border-radius: 0px;
-  background: lighten($range-color, 10%);
-  cursor: pointer;
-  -webkit-appearance: none;
-  margin-top: -0.7px;
-}
-input[type=range]:focus::-webkit-slider-runnable-track {
-  background: #545a5a;
-}
-input[type=range]::-moz-range-track {
-  width: 100%;
-  height: 25.6px;
-  cursor: pointer;
-  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
-  background: #484d4d;
-  border-radius: 0px;
-  border: 0px solid #010101;
-}
-input[type=range]::-moz-range-thumb {
-  box-shadow: 0px 0px 1px darken($range-color, 10%), 0px 0px 0px darken($range-color, 20%);
-  border: 0px solid $range-color;
-  height: 27px;
-  width: 18px;
-  border-radius: 0px;
-  background: lighten($range-color, 10%);
-  cursor: pointer;
-}
-input[type=range]::-ms-track {
-  width: 100%;
-  height: 25.6px;
-  cursor: pointer;
-  background: transparent;
-  border-color: transparent;
-  color: transparent;
-}
-input[type=range]::-ms-fill-lower {
-  background: #3c4040;
-  border: 0px solid #010101;
-  border-radius: 0px;
-  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
-}
-input[type=range]::-ms-fill-upper {
-  background: #484d4d;
-  border: 0px solid #010101;
-  border-radius: 0px;
-  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
-}
-input[type=range]::-ms-thumb {
-  box-shadow: 0px 0px 1px darken($range-color, 10%), 0px 0px 0px darken($range-color, 20%);
-  border: 0px solid $range-color;
-  height: 27px;
-  width: 18px;
-  border-radius: 0px;
-  background: lighten($range-color, 10%);
-  cursor: pointer;
-  height: 25.6px;
-}
-input[type=range]:focus::-ms-fill-lower {
-  background: #484d4d;
-}
-input[type=range]:focus::-ms-fill-upper {
-  background: #545a5a;
 }

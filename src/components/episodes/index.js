@@ -1,11 +1,13 @@
 import React from 'react';
-import Episode from '../episode';
+import Link from 'gatsby-link';
+import { TeaserEpisode } from '../episode';
 
 const EpisodeWrapper = props => (
-  <div className="col-md mb-4">
-    <div className="media media--episode border p-3">
+  <div className="col-md mb-5">
+    <div className="media media--episode media--episode-teaser d-flex">
+      <Link className="media__image" style={{ backgroundImage: `url(${props.frontmatter.image})` }} to={props.frontmatter.path} />
       <div className="media-body">
-        <Episode {...props} />
+        <TeaserEpisode {...props} />
       </div>
     </div>
   </div>
@@ -26,9 +28,9 @@ function renderRows(episodes) {
 }
 
 const Episodes = ({ episodes }) => (
-  <section className="bg-white pt-5 pb-2 episodes">
-    <div className="container-fluid">
-      <h1 className="mb-4">Episodes</h1>
+  <section className="episodes bg-dark text-white">
+    <div className="container-fluid pt-4 pb-2">
+      <h1 className="episodes__title mb-4 pb-2 section-title">Episodes</h1>
       {renderRows(episodes)}
     </div>
   </section>

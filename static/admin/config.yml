@@ -14,8 +14,28 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "episode"}
+      - {label: "Path", name: "path", widget: "string"}
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Image", name: "image", widget: "image"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Short Description", name: "description", widget: "text"}
       - {label: "Audio", name: "audio", widget: "string"}
-      - {label: "Transcript", name: "body", widget: "markdown"}
+      - {label: "Transcript", name: "transcript", widget: "markdown"}
+      - {label: "Content", name: "body", widget: "markdown"}
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "static/content/pages/about.md"
+        label: "About"
+        name: "about"
+        fields:
+          - {label: "Name", name: "name", widget: "hidden", default: "about"}
+          - {label: "Body", name: "body", widget: "markdown"}
+
+      - file: "static/content/pages/contact.md"
+        label: "Contact"
+        name: "contact"
+        fields:
+          - {label: "Name", name: "name", widget: "hidden", default: "contact"}
+          - {label: "Body", name: "body", widget: "markdown"}
