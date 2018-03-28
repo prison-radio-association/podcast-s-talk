@@ -1,18 +1,21 @@
 import React, { Component } from 'react';
 import { EpisodeTranscript } from '../components/episode';
 
-const TranscriptPage = ({ data: { episode } }) => (
+const TranscriptPage = ({ episode, pathContext, episodePath, data: { transcript } }) => (
   <section className="page bg-white text-dark">
     <div className="container-fluid">
-      <EpisodeTranscript {...episode} />
+      <EpisodeTranscript html={transcript.html} {...pathContext} />
     </div>
   </section>
 );
 
 export const query = graphql`
-  query TranscriptQuery($episodePath: String!) {
-    episode: markdownRemark(frontmatter: { path: { eq: $episodePath } }) {
-      ...EpisodeFragment
+  query TranscriptQuery($templateKey: String!, $episodeTitle: String!) {
+    transcript: markdownRemark(frontmatter: { 
+      episode: { eq: $episodeTitle }
+      templateKey: { eq: $templateKey }
+    }) {
+      html
     }
   }
 `;

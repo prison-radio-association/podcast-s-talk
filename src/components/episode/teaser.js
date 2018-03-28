@@ -13,7 +13,7 @@ const TeaserEpisodeTemplate = ({ className, frontmatter, media, currentMedia, pl
       <Link className="text-white" to={frontmatter.path}> <u>more</u></Link>
     </p>
     <div className="episode__actions d-flex justify-content-start">
-      <button className="btn btn-outline-secondary mr-2 mr-sm-3">Transcript</button>
+      <Link className="btn btn-outline-secondary mr-2 mr-sm-3" to={`${frontmatter.path}/transcript`}>Transcript</Link>
       {currentMedia === frontmatter.audio ? (
         <PlayPause className="btn btn-outline-primary" />
       ) : (

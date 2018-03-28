@@ -1,46 +1,34 @@
 .masthead {
-  padding-top: 70px;
+  background: $black;
+  
+  &__content {
+    flex-direction: row;
+
+    @media screen and (orientation: portrait) and (max-width: breakpoint-max(sm)) {
+      flex-direction: column-reverse;
+      padding-bottom: 20px;
+
+      .logo {
+        margin-bottom: 20px;
+      }
+    }
+  }
 
   .has-media-bar & {
     padding-bottom: 45px;
   }
-
-  @media screen and (orientation: portrait) {
-    // max-height: 670px;
-  }
   
-  &__content {
-    background: url('/assets/logo.jpg');
-    background-position: center 10%;
-    background-size: 70% auto;
+  .logo {
+    background-image: url('/assets/logo.jpg');
+    background-position: center center;
+    background-size: contain;
     background-repeat: no-repeat;
-    flex-direction: column-reverse;
-
-    @media screen and (orientation: landscape), screen and (min-width: breakpoint-min(sm)) {
-      background-position: right center;
-      background-size: contain;
-      flex-direction: row;
-    }
+    height: 200px;
+    width: 100%;
   }
 
   .media {
-    @media screen and (orientation: landscape), screen and (min-width: breakpoint-min(sm)) {
-      width: 55%;
-    }
-
-    @media screen and (max-width: breakpoint-max(sm)) and (orientation: landscape) {
-      margin-top: auto;
-      margin-bottom: auto;
-    }
-  }
-
-  @include media-breakpoint-up(md) {
-    padding-top: 100px;
-    padding-bottom: 50px;
-
-    .has-media-bar & {
-      padding-bottom: 95px;
-    }
+    width: 100%;
   }
   
   .episode {

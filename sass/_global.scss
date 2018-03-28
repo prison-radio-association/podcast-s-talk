@@ -2,7 +2,9 @@ html,
 body {
   position: relative;
   width: 100%;
-  background: rgb(0, 0, 0);
+  min-height: 100vh;
+  background: $white;
+  scroll-behavior: smooth;
 }
 
 body.has-media-bar {

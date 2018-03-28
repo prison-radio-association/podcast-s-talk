@@ -1,6 +1,5 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: test-repo
 
 # publish_mode: editorial_workflow
 
@@ -21,7 +20,15 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Short Description", name: "description", widget: "text"}
       - {label: "Audio", name: "audio", widget: "string"}
-      - {label: "Transcript", name: "transcript", widget: "markdown"}
+      - {label: "Content", name: "body", widget: "markdown"}
+
+  - name: "transcripts"
+    label: "Transcripts"
+    folder: "static/content/transcripts"
+    create: true
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "episode"}
+      - {label: "Episode", name: "episode", widget: "relation", collection: "episodes", searchFields: ["title"], valueField: "title"}
       - {label: "Content", name: "body", widget: "markdown"}
 
   - name: "pages"

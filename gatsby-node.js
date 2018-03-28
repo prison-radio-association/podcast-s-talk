@@ -14,6 +14,8 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
           node {
             frontmatter {
               templateKey
+              title
+              episode
               path
             }
           }
@@ -27,20 +29,56 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
     }
 
     return result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-      createPage({
-        path: node.frontmatter.path,
-        component: path.resolve(`src/templates/${String(node.frontmatter.templateKey)}.js`),
-        context: {}, // additional data can be passed via context
-      });
+      switch (node.frontmatter.templateKey) {
+        case 'transcript':
+          const episode = result
+            .data
+            .allMarkdownRemark
+            .edges
+            .find(entity => {
+              const frontmatter = entity.node.frontmatter;
+              return frontmatter.templateKey === 'episode' && frontmatter.title === node.frontmatter.episode;
+            });
 
-      if (node.frontmatter.templateKey === 'episode') {
-        createPage({
-          path: `${node.frontmatter.path}/transcript`,
-          component: path.resolve(`src/templates/transcript.js`),
-          context: {
-            episodePath: node.frontmatter.path,
-          }, // additional data can be passed via context
-        });
+          if (episode) {
+            createPage({
+              path: `${episode.node.frontmatter.path}/transcript`,
+              component: path.resolve(`src/templates/transcript.js`),
+              context: {
+                templateKey: node.frontmatter.templateKey,
+                episodeTitle: episode.node.frontmatter.title,
+                episodePath: episode.node.frontmatter.path,
+                episode: episode.node,
+              },
+            });
+          }
+          break;
+        
+        case 'episode':
+          const transcript = result
+            .data
+            .allMarkdownRemark
+            .edges
+            .find(entity => {
+              const frontmatter = entity.node.frontmatter;
+              return frontmatter.templateKey === 'transcript' && frontmatter.episode === node.frontmatter.title;
+            });
+
+          createPage({
+            path: `${node.frontmatter.path}`,
+            component: path.resolve(`src/templates/episode.js`),
+            context: {
+              hasTranscript: transcript ? true : false,
+            },
+          });
+          break;
+
+        default:
+          createPage({
+            path: node.frontmatter.path,
+            component: path.resolve(`src/templates/${String(node.frontmatter.templateKey)}.js`),
+            context: {},
+          });
       }
     });
   });

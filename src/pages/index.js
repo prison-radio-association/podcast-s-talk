@@ -16,15 +16,9 @@ class IndexPage extends Component {
     return (
       <main>
         <Hero episode={edges[0]} />
-        <ScrollableAnchor id="episodes">
-          <div><Episodes episodes={edges} /></div>
-        </ScrollableAnchor>
-        <ScrollableAnchor id="about">
-          <div><About markup={aboutPage.html} /></div>
-        </ScrollableAnchor>
-        <ScrollableAnchor id="contact">
-          <div><Contact markup={contactPage.html} /></div>
-        </ScrollableAnchor>
+        <div id="episodes"><Episodes episodes={edges} /></div>
+        <div id="about"><About markup={aboutPage.html} /></div>
+        <div id="contact"><Contact markup={contactPage.html} /></div>
       </main>
     );
   }
