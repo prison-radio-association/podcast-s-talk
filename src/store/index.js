@@ -4,4 +4,8 @@ import navigation from '../reducers/navigation';
 
 const rootReducer = combineReducers({ media, navigation });
 
-export default (initialState = {}) => createStore(rootReducer, initialState);
+export default (initialState = {}, devtool) => createStore(
+  rootReducer,
+  initialState,
+  devtool,
+);

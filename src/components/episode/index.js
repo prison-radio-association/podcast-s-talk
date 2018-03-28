@@ -22,6 +22,7 @@ export const query = graphql`
 
 const episodeFactory = Episode => withMediaProps(connect(state => ({
   currentMedia: state.media.src,
+  playing: state.media.playing, // Added to ensure component rerendering (for play-pause)
 }), { playTrack })(Episode));
 
 export const FullEpisode = episodeFactory(FullTemplate);
