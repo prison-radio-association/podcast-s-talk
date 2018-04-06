@@ -4,6 +4,10 @@ const autoprefixer = require('autoprefixer');
 module.exports = {
   siteMetadata: {
     title: 'Sex Talk',
+    socialmedia: [
+      'https://twitter.com/SexTalkRadioUK',
+      'https://www.facebook.com/SexTalkPodcast/',
+    ],
   },
   plugins: [
     {
@@ -17,9 +21,6 @@ module.exports = {
     'gatsby-plugin-react-next',
     {
       resolve: '@jacobmischka/gatsby-plugin-react-svg',
-      options: {
-          // include: /assets/
-      }
     },
     {
       resolve: 'gatsby-plugin-postcss-sass',

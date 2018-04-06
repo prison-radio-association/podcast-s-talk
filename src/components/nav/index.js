@@ -4,6 +4,7 @@ import cx from 'classnames';
 import enhanceWithClickOutside from 'react-click-outside';
 import Link from 'gatsby-link';
 import Headroom from 'react-headroom';
+import { SocialIcon } from 'react-social-icons';
 import { toggleMenu } from '../../actions';
 import banana from './banana.jpg';
 
@@ -26,7 +27,7 @@ class NavMenu extends Component {
     const { toggleMenu } = this.props;
 
     return (
-      <ul className="navbar-nav ml-auto">
+      <ul className="navbar-nav ml-auto align-items-center">
         {links.map(link => (
           <li key={link[0]} className="nav-item">
             <Link className="nav-link " to={link[0]} onClick={toggleMenu}>{link[1]}</Link>
@@ -39,7 +40,7 @@ class NavMenu extends Component {
 
 const EnhancedNavMenu = enhanceWithClickOutside(NavMenu);
 
-const Nav = ({ menuOpen, toggleMenu }) => (
+const Nav = ({ menuOpen, toggleMenu, socialmedia }) => (
   <Headroom>
     <nav className="navbar navbar-expand-lg navbar-dark">
       <div className="container-fluid p-0">
@@ -58,8 +59,19 @@ const Nav = ({ menuOpen, toggleMenu }) => (
           <span className="navbar-toggler-icon" />
         </button>
         <div className={cx('navbar-collapse', { collapse: !menuOpen })} id="navbarResponsive">
-          <EnhancedNavMenu menuOpen={menuOpen} toggleMenu={toggleMenu} />
+          <EnhancedNavMenu menuOpen={menuOpen} toggleMenu={toggleMenu} socialmedia={socialmedia} />
         </div>
+        <ul className="nav navbar-nav navbar-right">
+          {socialmedia.map(url => (
+            <li key={url} className="ml-2">
+              <SocialIcon
+                url={url}
+                color="white"
+                style={{ height: 32, width: 32 }}
+              />
+            </li>
+          ))}
+        </ul>
       </div>
     </nav>
   </Headroom>

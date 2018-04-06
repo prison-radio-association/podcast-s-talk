@@ -31,3 +31,13 @@
 .about {
   box-shadow: inset 0px 6px 6px -6px $dark, inset 0px -6px 6px -6px $dark;
 }
+
+.contextual-nav {
+  text-decoration: none !important;
+  cursor: pointer;
+
+  > svg {
+    margin-right: 4px;
+    fill: $primary;
+  }
+}

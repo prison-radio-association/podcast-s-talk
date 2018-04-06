@@ -11,6 +11,7 @@ class IndexPage extends Component {
       episodes: { edges },
       aboutPage,
       contactPage,
+      site: { siteMetadata: { socialmedia } },
     } } = this.props;
 
     return (
@@ -18,7 +19,7 @@ class IndexPage extends Component {
         <Hero episode={edges[0]} />
         <div id="episodes"><Episodes episodes={edges} /></div>
         <div id="about"><About markup={aboutPage.html} /></div>
-        <div id="contact"><Contact markup={contactPage.html} /></div>
+        <div id="contact"><Contact markup={contactPage.html} socialmedia={socialmedia} /></div>
       </main>
     );
   }
@@ -41,6 +42,11 @@ export const query = graphql`
     },
     contactPage: markdownRemark(frontmatter: { name: { eq: "contact" } }) {
       html
+    },
+    site {
+      siteMetadata {
+        socialmedia
+      }
     }
   }
 `;

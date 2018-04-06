@@ -31,7 +31,7 @@ $nav-link-color: $white;
     }
   }
 
-  .navbar-nav {
+  #navbarResponsive .navbar-nav {
     @include media-breakpoint-down(md) {
       position: absolute;
       top: 100%;
@@ -80,7 +80,7 @@ $nav-link-color: $white;
   }
 
   @media (min-width: 992px) {
-    .navbar-nav > li.nav-item > a.nav-link {
+    #navbarResponsive .navbar-nav > li.nav-item > a.nav-link {
       padding: 0.5rem 1rem;
     }
   }

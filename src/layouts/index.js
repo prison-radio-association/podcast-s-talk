@@ -10,17 +10,17 @@ import MediaPlayer from '../components/media-player';
 
 import '../../sass/style.scss';
 
-const TemplateWrapper = ({ children, showMediaBar, data: { site: { siteMetadata: { title } } } }) => (
+const TemplateWrapper = ({ children, showMediaBar, data: { site: { siteMetadata } } }) => (
   <Media>
     <div>
-      <Helmet title={title}  bodyAttributes={{ 
+      <Helmet title={siteMetadata.title} bodyAttributes={{ 
         class: cx({
           'has-media-bar': showMediaBar,
         }),
       }}>
         <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet" />
       </Helmet>
-      <Nav />
+      <Nav socialmedia={siteMetadata.socialmedia} />
       {children()}
       <MediaPlayer />
     </div>
@@ -32,6 +32,7 @@ export const query = graphql`
     site {
       siteMetadata {
         title
+        socialmedia
       }
     }
   }
