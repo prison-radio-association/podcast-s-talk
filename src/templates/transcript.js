@@ -5,7 +5,7 @@ import ContextualNav from '../components/contextual-nav';
 const TranscriptPage = ({ pathContext, data: { transcript } }) => (
   <section className="page bg-white text-dark">
     <div className="container-fluid">
-      <ContextualNav history={history} to={pathContext.episodePath}>episode details</ContextualNav>
+      <ContextualNav to={pathContext.episodePath}>episode details</ContextualNav>
       <EpisodeTranscript html={transcript.html} {...pathContext} />
     </div>
   </section>

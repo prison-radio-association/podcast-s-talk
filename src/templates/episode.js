@@ -2,10 +2,10 @@ import React, { Component } from 'react';
 import { FullEpisode } from '../components/episode';
 import ContextualNav from '../components/contextual-nav';
 
-const EpisodePage = ({ history, data: { episode } }) => (
+const EpisodePage = ({ data: { episode } }) => (
   <section className="page bg-white text-dark">
     <div className="container-fluid">
-      <ContextualNav history={history} />
+      <ContextualNav />
       <FullEpisode {...episode} />
     </div>
   </section>
