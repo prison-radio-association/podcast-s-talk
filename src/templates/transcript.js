@@ -14,7 +14,7 @@ const TranscriptPage = ({ pathContext, data: { transcript } }) => (
 export const query = graphql`
   query TranscriptQuery($templateKey: String!, $episodeTitle: String!) {
     transcript: markdownRemark(frontmatter: { 
-      episode: { eq: $episodeTitle }
+      title: { eq: $episodeTitle }
       templateKey: { eq: $templateKey }
     }) {
       html

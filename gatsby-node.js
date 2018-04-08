@@ -15,7 +15,6 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
             frontmatter {
               templateKey
               title
-              episode
               path
             }
           }
@@ -37,7 +36,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
             .edges
             .find(entity => {
               const frontmatter = entity.node.frontmatter;
-              return frontmatter.templateKey === 'episode' && frontmatter.title === node.frontmatter.episode;
+              return frontmatter.templateKey === 'episode' && frontmatter.title === node.frontmatter.title;
             });
 
           if (episode) {
@@ -61,7 +60,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
             .edges
             .find(entity => {
               const frontmatter = entity.node.frontmatter;
-              return frontmatter.templateKey === 'transcript' && frontmatter.episode === node.frontmatter.title;
+              return frontmatter.templateKey === 'transcript' && frontmatter.title === node.frontmatter.title;
             });
 
           createPage({

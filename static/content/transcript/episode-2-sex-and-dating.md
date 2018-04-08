@@ -1,6 +1,6 @@
 ---
 templateKey: transcript
-episode: "Episode 2: Sex and Dating"
+title: "Episode 2: Sex and Dating"
 ---
 **[00:00:00] Voice Over:** You&#39;re listening to sex talk, a podcast all about sex. In this episode expect to hear some colourful language and conversations of a sexual nature. You may want to pop on a pair of headphones for some privacy during this program
 

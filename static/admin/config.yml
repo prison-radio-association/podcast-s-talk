@@ -1,7 +1,8 @@
 backend:
-  name: test-repo
+  name: git-gateway
+  branch: wip
 
-# publish_mode: editorial_workflow
+publish_mode: editorial_workflow
 
 media_folder: static/assets
 public_folder: /assets
@@ -28,7 +29,7 @@ collections:
     create: true
     fields:
       - {label: "Template Key", name: "templateKey", widget: "hidden", default: "episode"}
-      - {label: "Episode", name: "episode", widget: "relation", collection: "episodes", searchFields: ["title"], valueField: "title"}
+      - {label: "Episode Title", name: "title", widget: "relation", collection: "episodes", searchFields: ["title"], valueField: "title"}
       - {label: "Content", name: "body", widget: "markdown"}
 
   - name: "pages"
