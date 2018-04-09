@@ -31,6 +31,23 @@ $nav-link-color: $white;
     }
   }
 
+  @include media-breakpoint-down(md) {
+    .navbar-toggler {
+      order: 2;
+    }
+
+    .navbar-right {
+      order: 1;
+      flex-direction: row;
+      margin-left: auto;
+      margin-right: 5px;
+    }
+
+    .navbar-collapse {
+      flex-basis: auto;
+    }
+  }
+
   #navbarResponsive .navbar-nav {
     @include media-breakpoint-down(md) {
       position: absolute;

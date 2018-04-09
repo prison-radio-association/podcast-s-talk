@@ -8,7 +8,7 @@ const Contact = ({ markup, socialmedia }) => (
       <div dangerouslySetInnerHTML={{ __html: markup}} />
       <ul className="nav navbar-nav d-flex flex-row mb-4">
           {socialmedia.map(url => (
-            <li key={url} className="ml-2">
+            <li key={url} className="mr-2">
               <SocialIcon
                 url={url}
                 color="white"

@@ -1,5 +1,5 @@
 ---
-templateKey: episode
+templateKey: transcript
 title: 'Episode 3: Sex Addiction'
 ---
 **Voice Over:** You are listening to Sex Talk. A podcast all about sex. In this episode expect to hear some colourful language and conversations of a sexual nature. You may want to pop on a pair of headphones for some privacy during this programme.

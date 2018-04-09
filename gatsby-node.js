@@ -1,4 +1,5 @@
 const path = require('path');
+const getPathFromId = require('./src/utils/get-path-from-id');
 
 exports.createPages = ({ boundActionCreators, graphql }) => {
   const { createPage } = boundActionCreators;
@@ -12,10 +13,10 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
       ) {
         edges {
           node {
+            id
             frontmatter {
               templateKey
               title
-              path
             }
           }
         }
@@ -41,43 +42,25 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
 
           if (episode) {
             createPage({
-              path: `${episode.node.frontmatter.path}/transcript`,
+              path: getPathFromId(node.id),
               component: path.resolve(`src/templates/transcript.js`),
               context: {
                 templateKey: node.frontmatter.templateKey,
-                episodeTitle: episode.node.frontmatter.title,
-                episodePath: episode.node.frontmatter.path,
                 episode: episode.node,
+                episodeTitle: episode.node.frontmatter.title,
               },
             });
           }
           break;
-        
-        case 'episode':
-          const transcript = result
-            .data
-            .allMarkdownRemark
-            .edges
-            .find(entity => {
-              const frontmatter = entity.node.frontmatter;
-              return frontmatter.templateKey === 'transcript' && frontmatter.title === node.frontmatter.title;
-            });
-
-          createPage({
-            path: `${node.frontmatter.path}`,
-            component: path.resolve(`src/templates/episode.js`),
-            context: {
-              hasTranscript: transcript ? true : false,
-            },
-          });
-          break;
 
         default:
-          createPage({
-            path: node.frontmatter.path,
-            component: path.resolve(`src/templates/${String(node.frontmatter.templateKey)}.js`),
-            context: {},
-          });
+          if (typeof node.frontmatter.path !== 'undefined') {
+            createPage({
+              path: node.frontmatter.path,
+              component: path.resolve(`src/templates/${String(node.frontmatter.templateKey)}.js`),
+              context: {},
+            });
+          }
       }
     });
   });

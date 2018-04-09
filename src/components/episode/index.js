@@ -8,15 +8,15 @@ import TranscriptTemplate from './transcript';
 
 export const query = graphql`
   fragment EpisodeFragment on MarkdownRemark {
-    html,
+    id
+    html
     frontmatter {
       title
       image
-      path
       date(formatString: "MMMM DD, YYYY")
-      description
       audio
-    }
+    },
+    excerpt(pruneLength: 250)
   }
 `;
 
