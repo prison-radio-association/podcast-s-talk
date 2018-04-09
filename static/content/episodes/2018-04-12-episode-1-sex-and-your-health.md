@@ -2,7 +2,7 @@
 templateKey: episode
 path: /episodes/episode-1-sex-and-your-health
 title: 'Episode 1: Sex and your health'
-image: 'http://fillmurray.com/800/600'
+image: /assets/sex talk-16.jpg
 date: 2018-04-12T00:00:00.000Z
 description: >-
   Adele and Hilary are joined in the studio by Dr Stuart Flanagan to talk all
