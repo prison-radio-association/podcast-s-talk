@@ -20,6 +20,7 @@
     "gatsby-transformer-remark": "^1.7.37",
     "gatsby-transformer-sharp": "^1.6.22",
     "open-iconic": "^1.1.1",
+    "react-bootstrap4-modal": "^1.2.2",
     "react-click-outside": "^3.0.1",
     "react-headroom": "^2.2.2",
     "react-media-player": "^0.7.0",

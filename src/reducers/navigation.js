@@ -1,7 +1,8 @@
-import { MENU_TOGGLED } from '../actions';
+import { MENU_TOGGLED, SUBSCRIBE_MODAL_TOGGLED } from '../actions';
 
 const defaultState = {
   menuOpen: false,
+  subscribeModalOpen: false,
 };
 
 export default (state = defaultState, action) => {
@@ -10,6 +11,12 @@ export default (state = defaultState, action) => {
       return { 
         ...state,
         menuOpen: !state.menuOpen,
+      };
+
+    case SUBSCRIBE_MODAL_TOGGLED:
+      return {
+        ...state,
+        subscribeModalOpen: !state.subscribeModalOpen,
       };
 
     default:

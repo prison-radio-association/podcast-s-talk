@@ -18,4 +18,14 @@
       fill: $white;
     }
   }
+
+  .subscribe {
+    color: $white;
+
+    > svg {
+      fill: $secondary;
+      width: 20px;
+      height: 20px;
+    }
+  }
 }
