@@ -3,7 +3,7 @@ templateKey: episode
 path: /episodes/episode-2-sex-and-dating
 title: 'Episode 2: Sex and Dating'
 image: /assets/adult-affection-beard-842546.jpg
-date: 2018-04-12T00:00:00.000Z
+date: '2018-04-12T01:01:00+01:00'
 description: >-
   Adele and Hilary are joined in the studio by Sexpert, Brigette Bard, Founder
   and CEO of BioSure.
