@@ -3,7 +3,7 @@ templateKey: episode
 path: /episodes/episode-3-sex-addiction
 title: 'Episode 3: Sex Addiction'
 image: /assets/ciu2ykpp.jpg
-date: '2018-04-09T00:25:30+01:00'
+date: '2018-04-12T01:02:30+01:00'
 description: >-
   In episode 3 of Sex Talk, Adele and Hilary look into the world of Sex
   Addiction. 
