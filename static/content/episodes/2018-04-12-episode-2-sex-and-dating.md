@@ -1,7 +1,7 @@
 ---
 templateKey: episode
 title: 'Episode 2: Sex and Dating'
-image: /assets/adult-affection-beard-842546.jpg
+image: /assets/brigette cropped.jpg
 date: '2018-04-12T01:01:00+01:00'
 audio: >-
   https://cdn-dovetail-cf.prxu.org/96/w3Hdy67ELCl3TDn55iDN12xUn5M7xohioiSFs1jQb2Q/299_Gerrymandering_pt_01.mp3
