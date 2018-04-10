@@ -1,6 +1,8 @@
 ---
 name: about
 ---
+![](/assets/sex talk-5.jpg)
+
 Sex Talk is a podcast starting an honest conversation about sex.
 
 It is presented by Adele Roberts and Hilary Ineomo-Marcus, and throughout the series they’ll be covering a wide range of sex-related subjects, from Sexual Health to testing for HIV, Sex Addiction, Sexuality and Religion and Sex Work.
