@@ -4,7 +4,7 @@ title: 'Episode 3: Sex Addiction'
 ---
 **Voice Over:** You are listening to Sex Talk. A podcast all about sex. In this episode expect to hear some colourful language and conversations of a sexual nature. You may want to pop on a pair of headphones for some privacy during this programme.
 
-- --Sex talk. Coming up on this episode of sex talk:
+* \--Sex talk. Coming up on this episode of sex talk:
 
 **Erica** : I found that if I watched more porn and if I masturbated more then I can get a break from those big scary feelings.
 
@@ -88,7 +88,7 @@ Erica is on the phone to us now all the way from LA, hello Erica!
 
 **Erica:** Thank you so much for having me.
 
-- -- **Voice Over:** Sex talk. Word porn. –
+* \-- **Voice Over:** Sex talk. Word porn. –
 
 **Adele** : Hilary it&#39;s your favourite time again.
 
@@ -138,7 +138,7 @@ _Laughter_
 
 _Laughter_
 
-- --You&#39;re listening to sex talk. Find out more by going to sextalk.radio and share your thoughts across social media using hashtag sex talk pod. -
+* \--You&#39;re listening to sex talk. Find out more by going to sextalk.radio and share your thoughts across social media using hashtag sex talk pod. -
 
 **Hilary:** We just heard from Erica Garza, who was talking openly and honestly about her own sex addiction. Erica is the author of Getting Off and was talking to us from her home in America, but sex addiction is something which is also becoming more recognised here in the UK.
 
@@ -182,7 +182,7 @@ _Laughter_
 
 **Hilary:** And if people wanted to get in touch with you how would they go about doing that?
 
-**Alan:** There&#39;s my website Horizons.co.uk, I&#39;ll always answer any questions people have.
+**Alan:** There&#39;s my website horizonplymouth.co.uk, I&#39;ll always answer any questions people have.
 
 **Hilary:** On my way to the clinic this morning I was thinking of examples of media personalities that have come out to talk about their addiction to sex and one that came to mind was Russel Brand. How much do you think that helps to empower other people that might not have come out to address these challenges that they have?
 
@@ -192,7 +192,7 @@ _Laughter_
 
 **Alan:** This frame is something made for me from a client when she finished. A huge difference happened in this kind of work gave her in her life and she sent me this as a thank you present and it says &#39;anything is possible if you put your mind to it, you can chose who you want to be&#39;.
 
-- -- **Voice Over:** Sex talk. Real stories, real issues. –
+* \-- **Voice Over:** Sex talk. Real stories, real issues. –
 
 **Adele:** What a lovely guy Alan is!
 
@@ -202,8 +202,9 @@ _Laughter_
 
 **Hilary:** Absolutely.
 
-- -- **Voice Over:** Sex talk. Word porn. –
-- --
+* \-- **Voice Over:** Sex talk. Word porn. –
+
+- - -
 
 **Hilary:** Now it&#39;s your turn to pick a letter and I&#39;ll go into the dictionary and find a word and you have to tell me what that word means. Let&#39;s get into the game Adele, what are you going to go for?
 
@@ -239,7 +240,7 @@ _Laughter_
 
 _Laughter_
 
-- -- **Voice Over:** Sex talk, myth busters with Dr Stuart –
+* \-- **Voice Over:** Sex talk, myth busters with Dr Stuart –
 
 **Hilary:** Hello Dr Stuart.
 
@@ -267,7 +268,7 @@ I mean it&#39;s an infection so your body should react towards it so I&#39;m ass
 
 **Dr Stuart:** Cheers Hilary.
 
-- -- **Voice Over:** Myth busters with Dr Stuart Flanagan. -
+* \-- **Voice Over:** Myth busters with Dr Stuart Flanagan. -
 
 **Hilary:** We&#39;ve already come to the end of this edition of Sex Talk! In the next episode we&#39;ll be looking at Sex and Prison.
 
@@ -285,6 +286,6 @@ We hope you&#39;ve enjoyed this edition of Sex Talk. We&#39;d like to thank toda
 
 **Hilary:** If you need further advice or support on any of the issues raised in this episode of Sex Talk contact your GP. They should provide out of hours contact details for emergency calls.
 
--Alternatively you can go online - [www.nhs.co.uk](http://www.nhs.co.uk)
+\-Alternatively you can go online - [www.nhs.co.uk](http://www.nhs.co.uk)
 
-- -- **Voice Over:** Thanks for listening to sex talk. The conversation doesn&#39;t stop here. Search hashtag sex talk pod and keep talking. Sex talk.
+* \-- **Voice Over:** Thanks for listening to sex talk. The conversation doesn&#39;t stop here. Search hashtag sex talk pod and keep talking. Sex talk.
