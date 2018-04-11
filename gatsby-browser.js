@@ -1,3 +1,4 @@
+import 'babel-polyfill';
 import React from 'react';
 import { Router } from 'react-router-dom';
 import { Provider } from 'react-redux';
@@ -14,7 +15,7 @@ exports.replaceRouterComponent = ({ history }) => {
     initialState,
     window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
   );
-  
+
   return ({ children }) => (
     <Provider store={store}>
       <Router history={history}>{children}</Router>
