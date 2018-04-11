@@ -1,6 +1,6 @@
 backend:
   name: git-gateway
-  branch: wip
+  branch: master
 
 publish_mode: editorial_workflow
 
@@ -31,7 +31,7 @@ collections:
       - {label: "Episode Title", name: "title", widget: "relation", collection: "episodes", searchFields: ["title"], valueField: "title"}
       - {label: "Content", name: "body", widget: "markdown"}
 
-  - name: "pages" 
+  - name: "pages"
     label: "Pages"
     files:
       - file: "static/content/pages/about.md"
