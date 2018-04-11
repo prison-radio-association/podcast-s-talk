@@ -18,6 +18,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
               path
               templateKey
               title
+              audio
             }
           }
         }
