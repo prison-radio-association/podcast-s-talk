@@ -2,7 +2,7 @@
 templateKey: episode
 path: /episodes/episode-1-sex-and-your-health
 title: 'Episode 1: Sex and your health'
-image: /assets/sex talk-16.jpg
+image: /assets/sex-talk-12-cropped.jpg
 date: 2018-04-12T00:00:00.000Z
 audio: 'http://traffic.libsyn.com/sextalk/Sex_Talk_Podcast_Preview.mp3'
 ---
