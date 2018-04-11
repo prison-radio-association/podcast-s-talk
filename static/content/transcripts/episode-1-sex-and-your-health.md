@@ -1,12 +1,12 @@
 ---
 templateKey: transcript
-title: "Episode 1: Sex and your health"
+title: 'Episode 1: Sex and your health'
 ---
-**[00:00:00] Voice Over:** You&#39;re listening to sex talk, a podcast all about sex. In this episode expect to hear some colourful language and conversations of a sexual nature. You may want to pop on a pair of headphones for some privacy during this program
+**\[00:00:00] Voice Over:** You&#39;re listening to sex talk, a podcast all about sex. In this episode expect to hear some colourful language and conversations of a sexual nature. You may want to pop on a pair of headphones for some privacy during this program
 
-**[00:00:15] Ident: Voice Over:** Sex Talk. Starting a conversation about sex.
+**\[00:00:15] Ident: Voice Over:** Sex Talk. Starting a conversation about sex.
 
-**[00:00:24] Adele:** Hi, welcome to Sex Talk. I&#39;m Adele Roberts. This is a brand new podcast all about sex. Throughout the series we&#39;ll be delving into different aspects of sex, from sexual health to addiction, sexuality and religion, to sex and alcohol. Joining us on this journey will be a host of doctor&#39;s therapist&#39;s experts and sexperts who share their experience and advice on how to stay safe and healthy. Joining me on the next eight episodes is the lovely Hilary Ineomo-Marcus who you may have heard on BBC Radio 4. Hilary is going to be our man on the road. He&#39;ll be meeting people who are working tirelessly to improve sexual health practices across the country. Hello Hilary!
+**\[00:00:24] Adele:** Hi, welcome to Sex Talk. I&#39;m Adele Roberts. This is a brand new podcast all about sex. Throughout the series we&#39;ll be delving into different aspects of sex, from sexual health to addiction, sexuality and religion, to sex and alcohol. Joining us on this journey will be a host of doctor&#39;s therapist&#39;s experts and sexperts who share their experience and advice on how to stay safe and healthy. Joining me on the next eight episodes is the lovely Hilary Ineomo-Marcus who you may have heard on BBC Radio 4. Hilary is going to be our man on the road. He&#39;ll be meeting people who are working tirelessly to improve sexual health practices across the country. Hello Hilary!
 
 **Hilary:** Well hello Adele. It&#39;s a real pleasure to be with such a legend like yourself, and I&#39;m quite excited about this journey that we&#39;re going to be going on. So great to be on the show with you
 
@@ -24,7 +24,7 @@ title: "Episode 1: Sex and your health"
 
 **Adele:** Excellent.
 
-**[00:01:24] Ident: VOICE OVER:** Sex Talk. Coming up on this episode of Sex Talk.
+**\[00:01:24] Ident: VOICE OVER:** Sex Talk. Coming up on this episode of Sex Talk.
 
 **Hilary:** It&#39;s been an interesting introduction. I mean first time meeting you and you&#39;re sticking things my mouth… swabs that is.
 
@@ -32,7 +32,7 @@ title: "Episode 1: Sex and your health"
 
 **Ident: Voice Over:** Sex Talk
 
-**[00:01:41] Hilary:** So in each episode of Sex talk we&#39;ll be covering a different sexy subject. In this one we&#39;re talking all about sex and your health.
+**\[00:01:41] Hilary:** So in each episode of Sex talk we&#39;ll be covering a different sexy subject. In this one we&#39;re talking all about sex and your health.
 
 **Adele:** In 2016 there were approximately 420,000 people diagnosed with sexually transmitted infections in England alone
 
@@ -44,7 +44,7 @@ title: "Episode 1: Sex and your health"
 
 **Adele:** Today we&#39;ll be joined by a sexual health specialist who will be telling us all about the birds and the bees.
 
-**[00:02:43] Adele:** Now I know we&#39;ve only just met, and I don&#39;t mean to sound forward, but before we get started you did say you be up for anything…
+**\[00:02:43] Adele:** Now I know we&#39;ve only just met, and I don&#39;t mean to sound forward, but before we get started you did say you be up for anything…
 
 **Hilary:** I don&#39;t quite remember that Adele.
 
@@ -72,7 +72,7 @@ title: "Episode 1: Sex and your health"
 
 **Hilary:** Ok
 
-**[00:03:28] Adele:** Lovely work, and pop it into this little test tube please. Now Hilary, don&#39;t worry, we&#39;ve got a health care professional at hand who will be able to go through the results with you when they&#39;re ready in about 20 minutes time. Joining us in the studio now is Dr. Stuart Flanagan, a specialist in sexual health, HIV and viral hepatitis working at a sexual health clinic at the Royal London Hospital in Whitechapel. Welcome to the show Dr. Stuart!
+**\[00:03:28] Adele:** Lovely work, and pop it into this little test tube please. Now Hilary, don&#39;t worry, we&#39;ve got a health care professional at hand who will be able to go through the results with you when they&#39;re ready in about 20 minutes time. Joining us in the studio now is Dr. Stuart Flanagan, a specialist in sexual health, HIV and viral hepatitis working at a sexual health clinic at the Royal London Hospital in Whitechapel. Welcome to the show Dr. Stuart!
 
 **Dr. Stuart:** Hey Adele thank you. Thanks so much for the invitation to be here.
 
@@ -88,11 +88,11 @@ title: "Episode 1: Sex and your health"
 
 **Adele:** and as easy as rubbing your gums. So it&#39;s like brushing your teeth in the morning. I did not know it will be that easy, so what does rubbing the gum do?
 
-**[00:04:42] Dr. Stuart:** This is specifically an HIV test, which is trying to pick up the HIV antibody from the saliva.
+**\[00:04:42] Dr. Stuart:** This is specifically an HIV test, which is trying to pick up the HIV antibody from the saliva.
 
 So it doesn&#39;t pick up the virus itself but the body&#39;s response to the virus, and HIV in particular we know people have anxiety around. So most of the clinics now offer for what are called Point of Care tests. So that&#39;s a test that&#39;s done in the clinic where if it is positive you can find out that day and immediately we can start thinking about what your treatment might be, how you&#39;re managed, where we go from here and what the next steps are.
 
-**[00:05:11] Adele:** It&#39;s incredible you can find out so quickly, but it&#39;s also good to know how easy it is, and I think that if it was me, if I was worried about it… first of all I&#39;d be worried that you might be sat there judging me. So Hilary might be wondering that right now, so you can react to that?
+**\[00:05:11] Adele:** It&#39;s incredible you can find out so quickly, but it&#39;s also good to know how easy it is, and I think that if it was me, if I was worried about it… first of all I&#39;d be worried that you might be sat there judging me. So Hilary might be wondering that right now, so you can react to that?
 
 **Dr. Stuart:** Yeah. Well absolutely I mean one of the sort of core tenants of our service is that as non-judgmental we see a wide range of people with different sexualities, different gender thoughts. We see a lot of young people in particular and it&#39;s really important that we show them that we are a welcoming clinic and that we&#39;re actually here to support everyone and make sure that they make sensible and wise choices about their sexual health as part of all of their health choices.
 
@@ -100,15 +100,15 @@ So it doesn&#39;t pick up the virus itself but the body&#39;s response to the vi
 
 **Ident: Voice Over:** Sex Talk. Real Stories. Real Issues.
 
-**[00:05:57] Santiago:** The first time I actually went to get tested was because I was having symptoms and I hadn&#39;t done it before that, because I was actually just generally worried about what the test was going to be like, whether it was going to be very invasive in terms of physically or into my privacy, and actually whether I was going to get judged by the doctor or the nurse who saw me. And I think that&#39;s kind of a big scary thing you don&#39;t know what the inside of a clinic is going to look like and what that experience of sitting down with someone and telling them about the sexual experiences that you&#39;ve had… and you know getting naked in front of them potentially if they&#39;re gonna do tests etc. You don&#39;t know you&#39;re imagining it. Am I going to get strip searched? I&#39;m going to get… Oh God, God knows what&#39;s going to happen in there… and actually these people are trained to make you feel comfortable and to not judge you and they&#39;ll say &#39;OK so, talk to me about your sexual health history&#39; and they&#39;re very open and they use the terms that you think &#39;oh my God I wouldn&#39;t use that because I mean, I&#39;m in a doctor&#39;s office&#39; and you want to talk about sex and feel a bit prudish about it, but actually they&#39;re just very comfortable very matter of fact. Every experience that I&#39;ve had in sexual health clinics, everyone&#39;s been very open and warm and kind of made me feel very comfortable.
+**\[00:05:57] Santiago:** The first time I actually went to get tested was because I was having symptoms and I hadn&#39;t done it before that, because I was actually just generally worried about what the test was going to be like, whether it was going to be very invasive in terms of physically or into my privacy, and actually whether I was going to get judged by the doctor or the nurse who saw me. And I think that&#39;s kind of a big scary thing you don&#39;t know what the inside of a clinic is going to look like and what that experience of sitting down with someone and telling them about the sexual experiences that you&#39;ve had… and you know getting naked in front of them potentially if they&#39;re gonna do tests etc. You don&#39;t know you&#39;re imagining it. Am I going to get strip searched? I&#39;m going to get… Oh God, God knows what&#39;s going to happen in there… and actually these people are trained to make you feel comfortable and to not judge you and they&#39;ll say &#39;OK so, talk to me about your sexual health history&#39; and they&#39;re very open and they use the terms that you think &#39;oh my God I wouldn&#39;t use that because I mean, I&#39;m in a doctor&#39;s office&#39; and you want to talk about sex and feel a bit prudish about it, but actually they&#39;re just very comfortable very matter of fact. Every experience that I&#39;ve had in sexual health clinics, everyone&#39;s been very open and warm and kind of made me feel very comfortable.
 
-**[00:07:21]** In terms of testing I&#39;ve gone through a really weird journey. I think when you first start having sex and you start thinking about your sexual health, you kind of try and bury your head in the sand a little bit, you kind of start putting it off you go &#39;oh I&#39;ll go next month, next month, and then the next month&#39; and then something happens that you have symptoms, or maybe a partner that you&#39;ve had sex with will tell you that they have had a sexually transmitted disease, so you go and get yourself tested and that&#39;s kind of where you do all of your testing. And the one that you start worrying about, most people do worry about is the HIV test. And it used to be a very nerve-wracking experience for me. Now as I&#39;ve grown up a little bit, and gotten older, and met more people and met my flatmate who is a sexual health nurse, and talked a lot about sexual health, I&#39;ve started to kind of be a bit more aware and careful and responsible for my own sexual health and doing it more as a routine rather than just once in a blue moon kind of thing.
+**\[00:07:21]** In terms of testing I&#39;ve gone through a really weird journey. I think when you first start having sex and you start thinking about your sexual health, you kind of try and bury your head in the sand a little bit, you kind of start putting it off you go &#39;oh I&#39;ll go next month, next month, and then the next month&#39; and then something happens that you have symptoms, or maybe a partner that you&#39;ve had sex with will tell you that they have had a sexually transmitted disease, so you go and get yourself tested and that&#39;s kind of where you do all of your testing. And the one that you start worrying about, most people do worry about is the HIV test. And it used to be a very nerve-wracking experience for me. Now as I&#39;ve grown up a little bit, and gotten older, and met more people and met my flatmate who is a sexual health nurse, and talked a lot about sexual health, I&#39;ve started to kind of be a bit more aware and careful and responsible for my own sexual health and doing it more as a routine rather than just once in a blue moon kind of thing.
 
-**[00:08:20]** since I started having sex when I was around 17. You know, since then I have been diagnosed with some STI&#39;s which I&#39;ve got myself treated for, and the slightly embarrassing bit can be letting your previous partners know about it… but I think people respect you and thank you for letting them know in terms of scares with HIV specifically. Well, when I was younger I used to get really worried about it just because I&#39;d leave it for such a long time between tests. One particular time actually I had sex with somebody whose status I didn&#39;t know, and the condom broke which made me worried. So I spoke some people, some of my friends as I didn&#39;t know what to do about it, and they told me about PEP which is this course of pills that will hopefully stop you from getting HIV if you&#39;ve been exposed to this virus. So that was a bit of a scary moment, just because I put myself at risk, even though it was an accident, I still put myself at risk.
+**\[00:08:20]** since I started having sex when I was around 17. You know, since then I have been diagnosed with some STI&#39;s which I&#39;ve got myself treated for, and the slightly embarrassing bit can be letting your previous partners know about it… but I think people respect you and thank you for letting them know in terms of scares with HIV specifically. Well, when I was younger I used to get really worried about it just because I&#39;d leave it for such a long time between tests. One particular time actually I had sex with somebody whose status I didn&#39;t know, and the condom broke which made me worried. So I spoke some people, some of my friends as I didn&#39;t know what to do about it, and they told me about PEP which is this course of pills that will hopefully stop you from getting HIV if you&#39;ve been exposed to this virus. So that was a bit of a scary moment, just because I put myself at risk, even though it was an accident, I still put myself at risk.
 
-**[00:09:10]** So, I think getting tested regularly is really important. I think knowing your status is important both for your own sexual health, so if there is something that you have contracted whatever sexual decease it is, is treated, and the quicker you get treated the better. Selfishly, The biggest thing for me is your own peace of mind, honestly it can really eat you up inside, especially if you&#39;re sexually active, to not get tested for a long time, that anxiety builds up, so for your own peace of mind you just go and do it and it&#39;s surprisingly liberating once you feel you&#39;re in control of your own sexual health.
+**\[00:09:10]** So, I think getting tested regularly is really important. I think knowing your status is important both for your own sexual health, so if there is something that you have contracted whatever sexual decease it is, is treated, and the quicker you get treated the better. Selfishly, The biggest thing for me is your own peace of mind, honestly it can really eat you up inside, especially if you&#39;re sexually active, to not get tested for a long time, that anxiety builds up, so for your own peace of mind you just go and do it and it&#39;s surprisingly liberating once you feel you&#39;re in control of your own sexual health.
 
-**[00:09:30] Ident:** Voice Over: Sex Talk. Starting a conversation about Sex.
+**\[00:09:30] Ident:** Voice Over: Sex Talk. Starting a conversation about Sex.
 
 **Adele:** Santiago talks about how easy it is to get tested, and if you&#39;ve been once, it&#39;s probably easier to go back again and again. Dr. Stuart, knowing you&#39;ve used protection and have been having safe sex must take a lot of anxiety out of the testing process. But for some people listening they might be thinking &#39;well I know I&#39;ve had unprotected sex but I don&#39;t feel like there&#39;s anything wrong with me.&#39;
 
@@ -118,7 +118,7 @@ So it doesn&#39;t pick up the virus itself but the body&#39;s response to the vi
 
 **Dr. Stuart** : Yeah, so there definitely is benefits to coming early. We offer testing for asymptomatic STI&#39;s, which don&#39;t have any symptoms yet, and the common ones are Chlamydia, Gonorrhoea, HIV and Syphilis. So someone for example could carry chlamydia and be completely unaware of it.
 
-**[00:10:27]** About 50 percent of men, and about 80 percent of women with Chlamydia don&#39;t have any symptoms
+**\[00:10:27]** About 50 percent of men, and about 80 percent of women with Chlamydia don&#39;t have any symptoms
 
 **Hilary:** That&#39;s quite a high percentage
 
@@ -128,19 +128,19 @@ So it doesn&#39;t pick up the virus itself but the body&#39;s response to the vi
 
 **Hilary:** Dr. Stuart, I know I&#39;ve just done a mouth swab but you know I would imagine that there perhaps are a bit more intrusive tests that could be done. Could you explain a bit more about those things?
 
-**[00:11:20] Dr. Stuart:** Well for HIV in particular really the other tests are either a finger prick test which is similar to the swab in that you get the results the same day when you&#39;re in the clinic. And then there&#39;s also a blood test which can be done and sent to the lab. The main difference between those sorts of quick tests is that they have a longer window period. So for example the window period for the swab test and the finger prick test is three months.
+**\[00:11:20] Dr. Stuart:** Well for HIV in particular really the other tests are either a finger prick test which is similar to the swab in that you get the results the same day when you&#39;re in the clinic. And then there&#39;s also a blood test which can be done and sent to the lab. The main difference between those sorts of quick tests is that they have a longer window period. So for example the window period for the swab test and the finger prick test is three months.
 
 So that means a test done today doesn&#39;t cover any sexual contact in the last three months, whereas the blood test, it&#39;s a four week window period, but it does have to be sent to the laboratory so it can take a few days before those results are back.
 
-**[00:11:58]** with some of the other tests that we do, for example a test for Chlamydia and gonorrhoea, for men would be a urine test and for women it&#39;s a swab test. Sometimes we do internal swab tests for women if they have particular symptoms and sometimes we will do a urethral swab test or a swab from the tip of the penis for men if they have discharge, for example, in order for us to make sure that were doing the right tests to pick up the right diagnosis for the individual person.
+**\[00:11:58]** with some of the other tests that we do, for example a test for Chlamydia and gonorrhoea, for men would be a urine test and for women it&#39;s a swab test. Sometimes we do internal swab tests for women if they have particular symptoms and sometimes we will do a urethral swab test or a swab from the tip of the penis for men if they have discharge, for example, in order for us to make sure that were doing the right tests to pick up the right diagnosis for the individual person.
 
-**[00:12:28]** So we&#39;ve got some kits for… this is for a female test, nothing to be scared of so first of all, it&#39;s a little swab test which the woman can do herself. It&#39;s a self-taking vaginal swab and it&#39;s just basically a little swab with a little cotton wool bud on the end, and she just places inside the vagina moves it around for about 10,-20 seconds, and then puts it back into the kit, and we send that off to the lab. They may also be offered a blood test as well, which will test for things like HIV and syphilis and the swab test will check for chlamydia and gonorrhoea.
+**\[00:12:28]** So we&#39;ve got some kits for… this is for a female test, nothing to be scared of so first of all, it&#39;s a little swab test which the woman can do herself. It&#39;s a self-taking vaginal swab and it&#39;s just basically a little swab with a little cotton wool bud on the end, and she just places inside the vagina moves it around for about 10,-20 seconds, and then puts it back into the kit, and we send that off to the lab. They may also be offered a blood test as well, which will test for things like HIV and syphilis and the swab test will check for chlamydia and gonorrhoea.
 
-**[00:12:56]** For men who have sex with women, they also get offered the blood test for HIV and syphilis and also we ask them to provide a urine sample. So that will go into a urine bottle which gets sent to the lab and that&#39;s how chlamydia and gonorrhoea is tested for men of sex with men and men who have sex with women. For men who have sex with men they may wish to do some additional tests depending on what type of sex they have.
+**\[00:12:56]** For men who have sex with women, they also get offered the blood test for HIV and syphilis and also we ask them to provide a urine sample. So that will go into a urine bottle which gets sent to the lab and that&#39;s how chlamydia and gonorrhoea is tested for men of sex with men and men who have sex with women. For men who have sex with men they may wish to do some additional tests depending on what type of sex they have.
 
 Well for example if they have oral sex they can do a throat swab and if they have anal sex then they can take a swab from their rectum as well. And again both of those will test for chlamydia and gonorrhoea in those areas. These test kits are actually part of the new online testing service that is being rolled out across London over the next couple of months, and we&#39;ll probably see it across the rest of the UK very soon as well. And the idea is that someone can register online or come to the clinic and they&#39;ll be given a box like this which has all of the kit that they need to use. They can do the test at home, and basically they get a sort of prepaid envelope, they get sent to the laboratory, the lab runs the tests, and then they will test the patient with the outcome. So if everything is negative they let the patient know that are negative, and if any of the tests are positive it&#39;ll just say &#39;we recommend you attend your local sexual health service for some advice and treatment&#39; and that&#39;s when we will see the patient then for example at our clinic, and we might offer them some antibiotics for their STI.
 
-**[00:14:24] Adele:** So that&#39;s great, it looks discreet, it definitely can fit through your letterbox, it&#39;s confidential, the answer comes straight to you, and I was going to ask as well about how easy it is to find your clinic, but now we have the ability to find you online.
+**\[00:14:24] Adele:** So that&#39;s great, it looks discreet, it definitely can fit through your letterbox, it&#39;s confidential, the answer comes straight to you, and I was going to ask as well about how easy it is to find your clinic, but now we have the ability to find you online.
 
 **Dr. Stuart:** Yes that&#39;s right. So you can just put your postcode in and see where your local clinic is then.
 
@@ -148,9 +148,9 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Dr. Stuart:** Heterosexual men for example don&#39;t really like going to doctors or hospitals in general. The other groups that were really keen to engage with are for example BME background people and people from transgender groups as well. And the reason for that is that they feel that some services in the health sector may not apply to them, and obviously we in particular apply to everyone. To anyone who has sex, or has had any sexual contact, then our service is for them. So we want to try and encourage people from all groups to come and see us if they have any concerns.
 
-**[00:15:16] Adele:** Brilliant, thank you very much Dr. Stuart. Please stick around. We got loads more questions for you and we still have Hilary&#39;s test results to come.
+**\[00:15:16] Adele:** Brilliant, thank you very much Dr. Stuart. Please stick around. We got loads more questions for you and we still have Hilary&#39;s test results to come.
 
-**[00:15:26] Ident:** Voice Over: Sex Talk. Word Porn.
+**\[00:15:26] Ident:** Voice Over: Sex Talk. Word Porn.
 
 **Adele:** Hilary
 
@@ -170,7 +170,7 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Adele:** No, a Sex Dictionary!
 
-**[Laughter]**
+**\[Laughter]**
 
 **Adele:** Well I thought that maybe we could learn some new phrases, because this podcast is celebrating sex, so maybe we could also be more colourful when we&#39;re talking about it, and new phrases and maybe go through our book each week
 
@@ -180,7 +180,7 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Hilary:** Sounds good to me.
 
-**[00:16:07]** Adele: Well you go first. So you pick a letter and then I&#39;ll read a word, and then you try and guess what it means. And if you can I&#39;ll try and act out or summit- I dunno.
+**\[00:16:07]** Adele: Well you go first. So you pick a letter and then I&#39;ll read a word, and then you try and guess what it means. And if you can I&#39;ll try and act out or summit- I dunno.
 
 **Hilary:** Ooh.. urm, I will go for the letter C.. ok? That&#39;s easy enough.. ABC…
 
@@ -192,23 +192,23 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Hilary:** Do I have to give an answer now?
 
-**[Laughter]**
+**\[Laughter]**
 
 **Adele:** Yes! Right quick quick…
 
 **Hilary:** That sounds like a dance to me, that&#39;s the first thing that comes to mind
 
-**[Laughter]**
+**\[Laughter]**
 
 **Hilary:** Cabareting, you know, doing a dance. It&#39;s kind of like an erotic dance for your part prior to, you know the full on, it&#39;s foreplay, it&#39;s some form of foreplay.
 
 **Adele:** Alright, yep coming to Strictly soon, Cabareting. Is that what you&#39;re saying?
 
-**[Laughter]**
+**\[Laughter]**
 
 **Hilary:** That&#39;s what I&#39;m going for, that&#39;s my answer, I&#39;m sticking with it.
 
-**[00:17:05] Adele:** I tell you what though I&#39;m not acting this one out. With it being our first week, can we just read it out okay? Next week will do it the other way round.
+**\[00:17:05] Adele:** I tell you what though I&#39;m not acting this one out. With it being our first week, can we just read it out okay? Next week will do it the other way round.
 
 **Hilary:** Ok, tell me how terrible I was.
 
@@ -220,9 +220,9 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Hilary:** I will wish you the same!
 
-**[Laughter]**
+**\[Laughter]**
 
-**[00:17:40] Ident: Voice Over:** Sex Talk. Coming up on this episode of sex talk.
+**\[00:17:40] Ident: Voice Over:** Sex Talk. Coming up on this episode of sex talk.
 
 **Dr. Stuart:** Shall we have a look at the result then?
 
@@ -230,7 +230,7 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Ident: Voice Over:** Sex Talk.
 
-**[00:18:00] Adele:** We spoke about groups that are harder for you to reach. Are there certain groups that are more at risk of contracting STI&#39;s and HIV?
+**\[00:18:00] Adele:** We spoke about groups that are harder for you to reach. Are there certain groups that are more at risk of contracting STI&#39;s and HIV?
 
 **Dr. Stuart:** We know for example about 50 percent of STI&#39;s are occurring in the 15 to 24 age group, so under 25&#39;s. If you have a particular group where there are a lot of STI&#39;s, if you&#39;re having unprotected sex with someone in that group then you&#39;re at risk of transmission.
 
@@ -238,7 +238,7 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Dr. Stuart:** And that&#39;s for example, men have sex with men, so we know there is a higher prevalence of STI&#39;s in that group. Most STI&#39;s are going down, which is good to see but syphilis is on the increase, particularly in men have sex with men. You know it&#39;s important for us to be open about sexuality and about the type of sex we have as well. If we want to make sure we get the right tests done for the right reason. Key to this is education and what happens in schools about Sexual health and relationships and it&#39;s really important that we talk to young people about sexual health and how that as part of their experience as an adult. Sexual health is an important conversation to have.
 
-**[00:19:02] Adele:** Do you know I went to an all-girls school and we did not have sexual health education. We didn&#39;t even have the banana. You know you put the condom on the banana?
+**\[00:19:02] Adele:** Do you know I went to an all-girls school and we did not have sexual health education. We didn&#39;t even have the banana. You know you put the condom on the banana?
 
 **Hilary:** Wow
 
@@ -246,7 +246,7 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Dr. Stuart:** There is a lot of discussions that are happening at the minute about how sexual health education is developed in schools, and discussed in schools. I think it is your human right to have access to good health care advice regardless of whatever the health care advice is.
 
-**[00:19:37] Ident: Voice Over:** You&#39;re listening to Sex Talk. Join the conversation online. #SexTalkPod
+**\[00:19:37] Ident: Voice Over:** You&#39;re listening to Sex Talk. Join the conversation online. #SexTalkPod
 
 **Adele:** So Hilary was tested for HIV. Can we just talk about syphilis which I didn&#39;t realise was still a thing. I&#39;ll be honest with you, I was a bit embarrassed when you mentioned that one, I was thinking Victorian times but it&#39;s still actually here. What sort of symptoms should people be looking out for?
 
@@ -254,7 +254,7 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Hilary &amp; Adele:** Wow
 
-**[00:20:55] Dr. Stuart:** But the good thing about syphilis is it&#39;s really easy to test for it on a blood test and we can treat it very easily with a penicillin based treatment.
+**\[00:20:55] Dr. Stuart:** But the good thing about syphilis is it&#39;s really easy to test for it on a blood test and we can treat it very easily with a penicillin based treatment.
 
 **Hilary:** That easy?
 
@@ -264,7 +264,7 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Adele:** So we&#39;ve talked a lot about testing Dr. Stuart, what about prevention?
 
-**[00:21:13] Dr. Stuart:** So, the best way to prevent STI&#39;s is using condoms consistently and regular STI testing, and multiple partners is another risk as well, but lots of people do have multiple partners, use condoms, and test regularly and they don&#39;t become infected with STI&#39;s.
+**\[00:21:13] Dr. Stuart:** So, the best way to prevent STI&#39;s is using condoms consistently and regular STI testing, and multiple partners is another risk as well, but lots of people do have multiple partners, use condoms, and test regularly and they don&#39;t become infected with STI&#39;s.
 
 **Adele:** What about women? So I have a female partner is there anything that we can do?
 
@@ -274,11 +274,11 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Hilary:** Dr. Stuart will be carrying on the conversation shortly, as I believe you have some questions for us at this time.
 
-**[00:21:59] Ident. Voice Over:** Sex Talk. Word Porn.
+**\[00:21:59] Ident. Voice Over:** Sex Talk. Word Porn.
 
 **Hilary:** Right Adele, it is time for me to get my book out
 
-**[Laughter]**
+**\[Laughter]**
 
 **Adele:** Yes
 
@@ -302,11 +302,11 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Adele:** Oooh! Gamaphobia! So that&#39;s being afraid of something. Is that what phobia is?
 
-**[00:22:55] Hilary:** Yes I&#39;ll give you that. Yes
+**\[00:22:55] Hilary:** Yes I&#39;ll give you that. Yes
 
 **Adele:** Alright. Gamo, what&#39;s gamo? Like bacon?
 
-**[Laughter]**
+**\[Laughter]**
 
 **Adele:** Alright it&#39;s not that. I don&#39;t know… Is it kind of like being frightened of something? And it&#39;s to do with sex Yeah?
 
@@ -318,9 +318,9 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Adele:** No come on you&#39;ve got to help me here! Don&#39;t be like dancing round it!
 
-**[LAUGHTER]**
+**\[LAUGHTER]**
 
-**[00:23:12] Hilary:** Dancing around it… Cabaretting?!
+**\[00:23:12] Hilary:** Dancing around it… Cabaretting?!
 
 **Adele:** Ok, it&#39;s not liking something?
 
@@ -346,7 +346,7 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Hilary:** I can understand why you went with that, because I would never have been able to make that connection. Gamophpbia.
 
-**[00:23:51] Adele:** Gamophobia. I&#39;m Gamophobic, I&#39;m not married. I&#39;ll put that on my Twitter bio.
+**\[00:23:51] Adele:** Gamophobia. I&#39;m Gamophobic, I&#39;m not married. I&#39;ll put that on my Twitter bio.
 
 **Hilary:** No, but are you afraid of marriage?
 
@@ -356,17 +356,17 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Adele:** Adelophobia!
 
-**[Laughter]**
+**\[Laughter]**
 
 **Hilary:** Right now we&#39;ve added a new word to a sex word bank. Let&#39;s carry on the conversation about sex and your health.
 
-**[00:24:12] Ident. Voice Over:** Myth Busters with Dr. Stuart Flanagan.
+**\[00:24:12] Ident. Voice Over:** Myth Busters with Dr. Stuart Flanagan.
 
 **Dr. Stuart:** Okay guys, so I have got some questions for you. So these are typically things that my patients ask me. So let&#39;s try one on you Hilary.
 
 **Hilary:** Okay. I mean can I just say guys, you know I&#39;ve done the swab and now I&#39;m getting picked on first!
 
-**[Laughter]**
+**\[Laughter]**
 
 **Adele:** That&#39;s a good point, that&#39;s a good point
 
@@ -378,7 +378,7 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Dr. Stuart:** yeah the pee hole…
 
-**[Laughter]**
+**\[Laughter]**
 
 **Hilary:** I was waiting for the clinical word actually to come, I didn&#39;t want to say something that wasn&#39;t quite correct.
 
@@ -386,7 +386,7 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Hilary:** I&#39;ve had it before, its worse in the mind than it actually is in reality
 
-**[00:25:29] Dr. Stuart:** And it takes about five seconds to do
+**\[00:25:29] Dr. Stuart:** And it takes about five seconds to do
 
 **Hilary:** That is true.
 
@@ -406,7 +406,7 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Adele:** If somebody has a cut in their mouth or they have a piercing… still cannot be done by kissing?
 
-**[00:26:13] Dr. Stuart:** So people get very anxious by transmission of blood. So if someone has a cut in their mouth, they would have to have HIV which is untreated which then goes into a cut which is also bleeding in someone else. So the chances of all of those things lining up and actually happening are extremely tiny. And certainly, you know, I&#39;ve been working sexual health 10 years I&#39;ve never seen HIV transmitted in that way. So to all intents and purposes it really doesn&#39;t happen.
+**\[00:26:13] Dr. Stuart:** So people get very anxious by transmission of blood. So if someone has a cut in their mouth, they would have to have HIV which is untreated which then goes into a cut which is also bleeding in someone else. So the chances of all of those things lining up and actually happening are extremely tiny. And certainly, you know, I&#39;ve been working sexual health 10 years I&#39;ve never seen HIV transmitted in that way. So to all intents and purposes it really doesn&#39;t happen.
 
 **Adele:** Do you think you&#39;re… sorry, sorry Hilary,
 
@@ -418,7 +418,7 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Dr. Stuart:** Shall we have a look at the result then?
 
-**[00:26:52] Hilary:** Yes let&#39;s do it.
+**\[00:26:52] Hilary:** Yes let&#39;s do it.
 
 **Dr. Stuart:** Shall we do it now? So basically there are two areas that we look at in the window of the test. One of them is C which means the control. And the second one is T which is the test. So there is no line at the T
 
@@ -426,13 +426,13 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Dr. Stuart:** So that means the test is negative and you don&#39;t have HIV.
 
-**Hilary:** [Sighs]
+**Hilary:** \[Sighs]
 
 **Adele:** Yes. Well done Hilary, that&#39;s my boy.
 
 **Hilary:** Thank you. No. Thank you. I was hoping that I wasn&#39;t going to get any surprises. Doing the test like this in a room full of people, there&#39;s always going to be butterflies but having kind of done that, and how easy it was and how quick, you know, the results came back. I feel like I would definitely encourage people to do that.
 
-**[00:27:31] Dr. Stuart:** You know obviously the test result is negative which is a good outcome but it&#39;s also important remember, for some people the test result will be reactive and it can be a lot of anxiety then and worry and concern. And part of the benefits of being in a professional health care environment when that test result comes through, is that you can get immediate support. So the first thing to know is that that test does not mean you definitely have HIV if it&#39;s positive or reactive. We do a second test which is a confirmatory test. If that test is positive, then there is a lot of support and a lot of things we can do to help you, and the treatment for HIV is really excellent. So lots of people living with HIV are on therapy which reduces the HIV virus level to undetectable, which means that they can transmit the virus onto anyone else.
+**\[00:27:31] Dr. Stuart:** You know obviously the test result is negative which is a good outcome but it&#39;s also important remember, for some people the test result will be reactive and it can be a lot of anxiety then and worry and concern. And part of the benefits of being in a professional health care environment when that test result comes through, is that you can get immediate support. So the first thing to know is that that test does not mean you definitely have HIV if it&#39;s positive or reactive. We do a second test which is a confirmatory test. If that test is positive, then there is a lot of support and a lot of things we can do to help you, and the treatment for HIV is really excellent. So lots of people living with HIV are on therapy which reduces the HIV virus level to undetectable, which means that they can't transmit the virus onto anyone else.
 
 **Adele:** Thank you. I think it&#39;s going to put a lot of people&#39;s minds at rest. It&#39;s good to know that you&#39;re there and you understand the mental impact that it&#39;s going to have on someone and the anxiety that can happen.
 
@@ -444,7 +444,7 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Adele:** So we&#39;ve heard on this episode about the importance of keeping yourself clean and healthy and how easy it is to do. So if you&#39;ve got something going on down there that you&#39;re worried about please visit your nearest sexual health clinic or speak to your GP. It&#39;s always best to find something early and remember get tested regularly and always use protection with new partners.
 
-**[00.29.03]** Thank you so much for joining us on our first episode of Sex Talk Dr. Stuart it&#39;s been fabulous having you in the studio. I wish you were my doctor.
+**\[00.29.03]** Thank you so much for joining us on our first episode of Sex Talk Dr. Stuart it&#39;s been fabulous having you in the studio. I wish you were my doctor.
 
 **Hilary:** Definitely, I&#39;ll echo that all day long.
 
@@ -454,10 +454,10 @@ Well for example if they have oral sex they can do a throat swab and if they hav
 
 **Hilary:** I know I definitely have.
 
-**[Laughter]**
+**\[Laughter]**
 
 **Hilary:** And if you&#39;d like to find out more about sex talk you can visit our website sextalk.radio
 
 **Adele:** If you need further advice or support on any of the issues raised in this episode of Sex Talk contact your GP. They should provide out about as contact details for emergency calls. Alternatively you can go online www.NHS.co.uk to find your nearest STI testing and treatment service. If you are concerned about HIV, Positively UK can offer advice. Their helpline is open Monday to Friday 10 a.m. to 4 p.m. on 02077130444.
 
-**[00:30:09] Ident Voice Over:** Thanks for listening to sex talk. The conversation doesn&#39;t stop here. Search #SexTalkPod and keep talking. Sex Talk
+**\[00:30:09] Ident Voice Over:** Thanks for listening to sex talk. The conversation doesn&#39;t stop here. Search #SexTalkPod and keep talking. Sex Talk
