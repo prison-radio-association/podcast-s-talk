@@ -27,7 +27,7 @@ module.exports = {
       },
     },
     'gatsby-transformer-sharp',
-    { 
+    {
       resolve: 'gatsby-transformer-remark',
       options: {
         plugins: [
@@ -61,6 +61,24 @@ module.exports = {
     },
     {
       resolve: 'gatsby-plugin-netlify-cms',
+    },
+    {
+      resolve: 'gatsby-plugin-favicon',
+      options: {
+        logo: './src/favicon.jpg',
+        injectHTML: true,
+        icons: {
+          android: true,
+          appleIcon: true,
+          appleStartup: true,
+          coast: false,
+          favicons: true,
+          firefox: true,
+          twitter: false,
+          yandex: false,
+          windows: false,
+        },
+      },
     },
     'gatsby-plugin-sharp',
     'gatsby-plugin-netlify',
