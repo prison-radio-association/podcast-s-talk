@@ -15,6 +15,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
           node {
             id
             frontmatter {
+              path
               templateKey
               title
             }
@@ -53,12 +54,30 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
           }
           break;
 
+        case 'episode':
+          const transcript = result
+            .data
+            .allMarkdownRemark
+            .edges
+            .find(entity => {
+              const frontmatter = entity.node.frontmatter;
+              return frontmatter.templateKey === 'transcript' && frontmatter.title === node.frontmatter.title;
+            });
+
+          createPage({
+            path: `${node.frontmatter.path}`,
+            component: path.resolve(`src/templates/episode.js`),
+            context: {
+              transcriptUrl: transcript && getPathFromId(transcript.node.id)
+            },
+          });
+          break;
+
         default:
           if (typeof node.frontmatter.path !== 'undefined') {
             createPage({
               path: node.frontmatter.path,
               component: path.resolve(`src/templates/${String(node.frontmatter.templateKey)}.js`),
-              context: {},
             });
           }
       }

@@ -8,6 +8,7 @@ import cx from 'classnames';
 import Nav from '../components/nav';
 import MediaPlayer from '../components/media-player';
 import Subscribe from '../components/subscribe';
+import Share from '../components/share';
 
 import '../../sass/style.scss';
 
@@ -17,15 +18,13 @@ const TemplateWrapper = ({ children, showMediaBar, data: { site: { siteMetadata 
       <Helmet title={siteMetadata.title} bodyAttributes={{ 
         class: cx({
           'has-media-bar': showMediaBar,
-        }),
-      }}>
-        <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet" />
-        <script src="https://d1sojsgu0jwtb7.cloudfront.net/js-pack/widgets.js" type="text/javascript" />
-      </Helmet>
+        }, 'bg-dark'),
+      }} />
       <Nav socialmedia={siteMetadata.socialmedia} />
       {children()}
       <MediaPlayer />
       <Subscribe />
+      <Share />
     </div>
   </Media>
 );

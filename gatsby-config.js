@@ -10,18 +10,43 @@ module.exports = {
     ],
   },
   plugins: [
+    'gatsby-plugin-react-next',
+    'gatsby-plugin-react-helmet',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/static/content`,
-        name: 'pages',
+        name: 'content',
       },
     },
-    'gatsby-plugin-react-helmet',
-    'gatsby-plugin-react-next',
     {
-      resolve: '@jacobmischka/gatsby-plugin-react-svg',
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/static/assets`,
+        name: 'assets',
+      },
     },
+    'gatsby-transformer-sharp',
+    { 
+      resolve: 'gatsby-transformer-remark',
+      options: {
+        plugins: [
+          {
+            resolve: `gatsby-remark-relative-images`,
+            options: {
+              name: 'assets',
+            },
+          },
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              maxWidth: 1200,
+            },
+          },
+        ],
+      },
+    },
+    '@jacobmischka/gatsby-plugin-react-svg',
     {
       resolve: 'gatsby-plugin-postcss-sass',
       options: {
@@ -34,14 +59,10 @@ module.exports = {
         precision: 8,
       },
     },
-    'gatsby-transformer-remark',
     {
       resolve: 'gatsby-plugin-netlify-cms',
-      // options: {
-      //   modulePath: `${__dirname}/src/cms/cms.js`,
-      // },
     },
     'gatsby-plugin-sharp',
-    'gatsby-transformer-sharp',
+    'gatsby-plugin-netlify',
   ],
 };

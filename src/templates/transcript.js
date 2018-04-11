@@ -2,10 +2,10 @@ import React, { Component } from 'react';
 import { EpisodeTranscript } from '../components/episode';
 import ContextualNav from '../components/contextual-nav';
 
-const TranscriptPage = ({ pathContext, data: { transcript } }) => (
+const TranscriptTemplate = ({ pathContext, data: { transcript } }) => (
   <section className="page bg-white text-dark">
     <div className="container-fluid">
-      <ContextualNav>Back</ContextualNav>
+      <ContextualNav />
       <EpisodeTranscript {...transcript} {...pathContext} />
     </div>
   </section>
@@ -23,4 +23,4 @@ export const query = graphql`
   }
 `;
 
-export default TranscriptPage;
+export default TranscriptTemplate;

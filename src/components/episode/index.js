@@ -11,6 +11,7 @@ export const query = graphql`
     id
     html
     frontmatter {
+      path
       title
       image
       date(formatString: "MMMM DD, YYYY")

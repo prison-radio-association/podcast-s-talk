@@ -1,5 +1,6 @@
 ---
 templateKey: episode
+path: '/episodes/episode-2-sex-and-dating'
 title: 'Episode 2: Sex and Dating'
 image: '/assets/brigette_bard arms crossed, smiling.jpg'
 date: '2018-04-12T01:01:00+01:00'

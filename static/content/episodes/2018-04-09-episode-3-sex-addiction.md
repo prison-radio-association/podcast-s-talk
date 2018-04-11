@@ -1,5 +1,6 @@
 ---
 templateKey: episode
+path: '/episodes/episode-3-sex-addiction'
 title: 'Episode 3: Sex Addiction'
 image: /assets/ciu2ykpp.jpg
 date: '2018-04-12T01:02:30+01:00'

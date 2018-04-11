@@ -1,8 +1,10 @@
-import { MENU_TOGGLED, SUBSCRIBE_MODAL_TOGGLED } from '../actions';
+import { MENU_TOGGLED, SUBSCRIBE_MODAL_TOGGLED, SHARE_MODAL_TOGGLED } from '../actions';
 
 const defaultState = {
   menuOpen: false,
   subscribeModalOpen: false,
+  shareModalOpen: false,
+  shareUrl: '',
 };
 
 export default (state = defaultState, action) => {
@@ -17,6 +19,13 @@ export default (state = defaultState, action) => {
       return {
         ...state,
         subscribeModalOpen: !state.subscribeModalOpen,
+      };
+
+    case SHARE_MODAL_TOGGLED:
+      return {
+        ...state,
+        shareModalOpen: !state.shareModalOpen,
+        shareUrl: action.payload,
       };
 
     default:

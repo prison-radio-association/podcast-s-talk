@@ -42,3 +42,33 @@
     fill: $primary;
   }
 }
+
+#footer {
+  background: $black;
+}
+
+.supported-by > a {
+  display: inline-block;
+}
+
+.subscribe-list > a > img {
+  max-width: 100%;
+}
+
+.share-list {
+  margin-left: -10px;
+
+  .SocialMediaShareButton {
+    margin: 0 0 10px 10px;
+    cursor: pointer;
+  }
+}
+
+.modal-content {
+  // border-radius: 0;
+  background: $gray-700;
+}
+
+.modal-header {
+  border-bottom: 4px solid $primary;
+}

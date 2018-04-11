@@ -1,7 +1,13 @@
 .episode {
   &__title {
     font-size: 22px;
-  }  
+    > a {
+      color: $white;
+      &:hover {
+        text-decoration: none;
+      }
+    }
+  }
 
   .play-pause {
     fill: $primary;
@@ -19,13 +25,30 @@
     }
   }
 
-  .subscribe {
+  .subscribe,
+  .share {
     color: $white;
+    cursor: pointer;
 
     > svg {
-      fill: $secondary;
       width: 20px;
       height: 20px;
+    }
+  }
+
+  .subscribe > svg {
+    fill: $secondary;
+  }
+
+  .share > svg {
+    fill: $primary;
+  }
+}
+
+.episode-page {
+  .col-sm {
+    > img {
+      max-width: 100%;
     }
   }
 }

@@ -1,1 +1,1 @@
-module.exports = id => id.match(/\/content\/([a-zA-Z0-9-\/]+)\.md/)[1];
+module.exports = id => id.match(/\/content(\/[a-zA-Z0-9-\/]+)\.md/)[1];

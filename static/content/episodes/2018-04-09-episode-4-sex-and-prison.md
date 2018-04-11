@@ -1,5 +1,6 @@
 ---
 templateKey: episode
+path: '/episodes/episode-4-sex-and-prison'
 title: 'Episode 4: Sex and Prison'
 image: /assets/styal prison 83 small.jpg
 date: '2018-04-12T01:03:40+01:00'

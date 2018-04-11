@@ -1,14 +1,13 @@
 import React from 'react';
-import { HeroEpisode } from '../episode';
+import artwork from './artwork.jpg';
+import logo from './logo.jpg';
 
 const Hero = ({ episode }) => (
-  <header className="masthead d-flex py-3 py-md-5">
-    <div className="container-fluid h-100 my-auto">
-      <div className="masthead__content d-flex align-items-center text-center text-sm-left">
-        <div className="media media--episode media--episode-hero text-white">
-          <HeroEpisode className="media-body" {...episode.node} />
-        </div>
-        <div className="logo" />
+  <header className="masthead">
+    <div className="container-fluid">
+      <div className="masthead__content text-center">
+        <img className="logo" src={logo} alt="Sex Talk" />
+        <img className="artwork" src={artwork} alt="Uncensored Chat Show, Real Stories, Real Issues" />
       </div>
     </div>
   </header>

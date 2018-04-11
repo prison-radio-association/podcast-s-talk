@@ -2,65 +2,31 @@
   background: $black;
   
   &__content {
-    flex-direction: row;
+    padding-top: 56px;
+    margin-top: -56px;
+    height: 100vh;
 
     @media screen and (orientation: portrait) and (max-width: breakpoint-max(sm)) {
-      flex-direction: column-reverse;
-      padding-bottom: 20px;
+      height: auto;
+      padding-top: 76px;
+    }
 
-      .logo {
-        margin-bottom: 20px;
-      }
+    @include media-breakpoint-up(md) {
+      height: auto;
     }
   }
 
-  .has-media-bar & {
-    padding-bottom: 45px;
-  }
-  
-  .logo {
-    background-image: url('/assets/logo.jpg');
-    background-position: center center;
-    background-size: contain;
-    background-repeat: no-repeat;
-    height: 200px;
-    width: 100%;
-  }
-
-  .media {
-    width: 100%;
-  }
-  
-  .episode {
-    &__title {
-      font-size: 18px;
-
-      @media screen and (max-width: breakpoint-max(sm)) and (orientation: portrait) {
-        font-size: 26px;
-        margin-bottom: 20px;
-      }
-
-      @include media-breakpoint-up(sm) {
-        font-size: 24px;
-      }
+  .logo,
+  .artwork {
+    max-width: 50%;
+    max-height: 100%;
+    
+    @media screen and (orientation: portrait) and (max-width: breakpoint-max(sm)) {
+      max-width: 100%;
     }
 
-    &__description {
-      font-size: 14px;
-
-      @media screen and (max-width: breakpoint-max(xs)) and (orientation: portrait) {
-        font-size: 16px;
-        margin-bottom: 30px;
-      }
-
-      @media screen and (max-width: breakpoint-max(sm)) and (orientation: portrait) {
-        font-size: 18px;
-        margin-bottom: 30px;
-      }
-
-      @include media-breakpoint-up(sm) {
-        font-size: 18px;
-      }
+    @include media-breakpoint-up(lg) {
+      max-width: 35%;
     }
   }
 }

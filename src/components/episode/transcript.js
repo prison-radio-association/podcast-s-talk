@@ -6,7 +6,7 @@ import remark from 'remark';
 import reactRenderer from 'remark-react';
 import PlayPause from '../media-player/play-pause';
 
-const EpisodeTranscriptTemplate = ({ className, html, excerpt, episodePath, episode, currentMedia, playTrack }) => (
+const EpisodeTranscriptTemplate = ({ className, html, excerpt, episode, currentMedia, playTrack }) => (
   <div className={cx('episode episode--full pb-3', className)}>
     <Helmet>
       <meta name="description" content={excerpt} />

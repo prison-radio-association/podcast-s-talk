@@ -5,7 +5,7 @@ import { TeaserEpisode } from '../episode';
 const EpisodeWrapper = props => (
   <div className="col-md mb-5">
     <div className="media media--episode media--episode-teaser d-flex">
-      <div className="media__image" style={{ backgroundImage: `url(${encodeURIComponent(props.frontmatter.image)})` }} to={props.frontmatter.path} />
+      <Link className="media__image" style={{ backgroundImage: `url(${encodeURIComponent(props.frontmatter.image)})` }} to={props.frontmatter.path} />
       <div className="media-body">
         <TeaserEpisode {...props} />
       </div>
