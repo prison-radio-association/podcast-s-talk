@@ -4,7 +4,7 @@ title: 'Episode 4: Sex and Prison'
 ---
 **Voice Over:** You&#39;re listening to Sex Talk. A podcast all about sex. In this episode expect to hear some colourful language and conversations of a sexual nature. You may want to pop on a pair of headphones for some privacy during this programme.
 
--- **Voice Over:** SEX TALK. Starting a conversation about sex.--
+\-- **Voice Over:** SEX TALK. Starting a conversation about sex.--
 
 **Adele** : Hi, welcome to the fourth episode of Sex Talk. I&#39;m Adele Roberts and I&#39;m joined once again by my wonderful co-presenter Hilary Ineomo-Marcus
 
@@ -22,7 +22,7 @@ title: 'Episode 4: Sex and Prison'
 
 **Hilary:** On today&#39;s episode we will be looking into sexuality behind bars as we hear from somebody who spent 14 months in a women&#39;s prison as she opens up about her experiences.
 
-- -- **Voice Over:** Sex Talk. Coming up on this episode of sex talk:
+* \-- **Voice Over:** Sex Talk. Coming up on this episode of sex talk:
 
 **Julia:** I had two relationships while in prison, one was for about a month. The second relationship was more meaningful. Without that second relationship I wouldn&#39;t have got through prison I don&#39;t think.
 
@@ -70,7 +70,7 @@ There was a sexual health nurse who was brilliant but unless you approached them
 
 I&#39;ve been out for just over 3 years now. I&#39;ve had a couple of little relationships that were meaningless and meant nothing, but that took me a while. It took me about 18 months. Sex? Yeah, I&#39;ve had sex a few times… But with men. I don&#39;t regret what I did in prison at all but obviously that&#39;s not who I am in real life.
 
-- -- **Voice Over:** Sex talk. Real stories, real issues -
+* \-- **Voice Over:** Sex talk. Real stories, real issues -
 
 **Adele:** Thanks to Julia for opening up so much!
 
@@ -82,7 +82,7 @@ I&#39;ve been out for just over 3 years now. I&#39;ve had a couple of little rel
 
 **Adele:** Yeah, but is that because prison – I can&#39;t really imagine what it&#39;s like to be in there. I can only imagine from what I&#39;ve seen on TV and in films but it just must be so alien to the life you had before. Before you have pretty much a lot of freedom, in prison she said words like regime. So to cope with that mentally this must be one of the reasons why sex and affection is so important to people.
 
-- -- **Voice Over:** Sex Talk. Word porn. –
+* \-- **Voice Over:** Sex Talk. Word porn. –
 
 **Hilary:** Right Adele, I feel like I&#39;m really getting good at our game that we&#39;ve been playing over the last couple of episodes.
 
@@ -102,7 +102,7 @@ I&#39;ve been out for just over 3 years now. I&#39;ve had a couple of little rel
 
 **Hilary:** Give it to me.
 
-- **Adele:** Okay… Okay it&#39;s got 1,2,3,4,5,6,7,8,9,10,11… it&#39;s got a lot of letters – 15 letters. ithyphallophobia.
+* **Adele:** Okay… Okay it&#39;s got 1,2,3,4,5,6,7,8,9,10,11… it&#39;s got a lot of letters – 15 letters. ithyphallophobia.
 
 **Hilary:**  Phobia means something someone&#39;s scared of.
 
@@ -140,9 +140,9 @@ I&#39;ve been out for just over 3 years now. I&#39;ve had a couple of little rel
 
 **Adele:** You want to get that on Scrabble.
 
-- -- **Voice Over:** Sex Talk, word porn. -
+* \-- **Voice Over:** Sex Talk, word porn. -
 
-**Hilary:** Julia mentioned earlier on that sex in prisons is banned. So generally sex is not allowed in prisons. This is quote taken from the prison service Instructions on Behavioural Expectations, &#39;Acting with decency at all times, remembering prisons/cells are not private dwellings (this includes not engaging in sexual activity)&#39;. However, there is another PSI which says there is &#39;no rule prohibiting sexual acts between prisoners&#39;, but if they are observed by someone who finds their behaviour offensive, a charge may be appropriate. However, it then goes to say that if &#39;two prisoners sharing a cell are in a relationship and engage in sexual activity during the night when they have a reasonable expectation of privacy, a disciplinary charge may not be appropriate&#39;, so there is some confusion over what is and is not allowed when it comes to sex in prisons!   _ _
+**Hilary:** Julia mentioned earlier on that sex in prisons is banned. So generally sex is not allowed in prisons. This is quote taken from the prison service Instructions on Behavioural Expectations, &#39;Acting with decency at all times, remembering prisons/cells are not private dwellings (this includes not engaging in sexual activity)&#39;. However, there is another PSI which says there is &#39;no rule prohibiting sexual acts between prisoners&#39;, but if they are observed by someone who finds their behaviour offensive, a charge may be appropriate. However, it then goes to say that if &#39;two prisoners sharing a cell are in a relationship and engage in sexual activity during the night when they have a reasonable expectation of privacy, a disciplinary charge may not be appropriate&#39;, so there is some confusion over what is and is not allowed when it comes to sex in prisons!   \_ \_
 
 **Adele** : More than half of European countries allow some form of private visits involving partners, and Canada has one of the most liberal systems allowing private relationship visits for up to three days at a time for qualifying inmates to &quot; [develop and maintain family and community ties in preparation for their return to the community](http://www.csc-scc.gc.ca/text/pblct/visit/index-eng.shtml) &quot;. Research also shows prisoners who receive visits from a family member are 39% less likely to reoffend
 
@@ -214,7 +214,7 @@ I&#39;ve been out for just over 3 years now. I&#39;ve had a couple of little rel
 
 **Adele:** If you&#39;d like to read the full review online go to howardleague.org
 
--- **Voice Over:** SEX TALK. Word Porn. —
+\-- **Voice Over:** SEX TALK. Word Porn. —
 
 **Adele:** Alright is it my go now?
 
@@ -222,7 +222,7 @@ I&#39;ve been out for just over 3 years now. I&#39;ve had a couple of little rel
 
 **Adele:** I&#39;m going to go for the grade that I got in English.
 
-**Hilary:** Is that A\*? You&#39;ve already done A Adele.
+**Hilary:** Is that A*? You&#39;ve already done A Adele.
 
 **Adele:** E.
 
@@ -230,9 +230,9 @@ I&#39;ve been out for just over 3 years now. I&#39;ve had a couple of little rel
 
 **Adele:** This is why this game&#39;s good for me. Go on, E.
 
-# **Hilary:** Right, cool. Let me flick through the dictionary and find the perfect word for you. Okay I&#39;ve got one and it&#39;s edeapsis.
+**Hilary:** Right, cool. Let me flick through the dictionary and find the perfect word for you. Okay I&#39;ve got one and it&#39;s edeapsis.
 
-# **Adele:** Edeapsis? I know her she&#39;s a woman who lives down the road.
+**Adele:** Edeapsis? I know her she&#39;s a woman who lives down the road.
 
 **Hilary:** You very might well.
 
@@ -280,7 +280,7 @@ I&#39;ve been out for just over 3 years now. I&#39;ve had a couple of little rel
 
 **Hilary:** Yes, we should change the name of the show.
 
-- -- **Voice Over:** Sex Talk, word porn. -
+* \-- **Voice Over:** Sex Talk, word porn. -
 
 **Hilary:** Unfortunately we&#39;ve come to the end of this episode of Sex Talk! In the next episode we&#39;ll be looking at Sex and Religion.
 
@@ -294,4 +294,4 @@ I&#39;ve been out for just over 3 years now. I&#39;ve had a couple of little rel
 
 **Hilary:** If you need further advice or support on any of the issues raised in this episode of Sex Talk contact your GP. They should provide out of hours contact details for emergency calls. Alternatively you can go online - [www.nhs.co.uk](http://www.nhs.co.uk)
 
-- -- **Voice Over:** Thanks for listening to sex talk. The conversation doesn&#39;t stop here. Search hashtag sex talk pod and keep talking. Sex talk -
+* \-- **Voice Over:** Thanks for listening to sex talk. The conversation doesn&#39;t stop here. Search hashtag sex talk pod and keep talking. Sex talk -
