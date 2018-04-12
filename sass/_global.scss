@@ -5,6 +5,7 @@ body {
   min-height: 100vh;
   background: $white;
   scroll-behavior: smooth;
+  background: url(../src/bgdark.png);
 }
 
 body.has-media-bar {

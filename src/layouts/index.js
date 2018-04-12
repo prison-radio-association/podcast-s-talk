@@ -16,7 +16,7 @@ const TemplateWrapper = ({ children, showMediaBar, data: { site: { siteMetadata 
     <Helmet title={siteMetadata.title} bodyAttributes={{
       class: cx({
         'has-media-bar': showMediaBar,
-      }, 'bg-dark'),
+      }),
     }} />
     <Nav socialmedia={siteMetadata.socialmedia} />
     {children()}

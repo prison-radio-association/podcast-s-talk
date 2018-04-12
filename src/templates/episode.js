@@ -3,7 +3,7 @@ import { FullEpisode } from '../components/episode';
 import ContextualNav from '../components/contextual-nav';
 
 const EpisodeTemplate = ({ pathContext, data: { episode } }) => (
-  <section className="page episode-page bg-dark text-white">
+  <section className="page episode-page text-white">
     <div className="container-fluid">
       <ContextualNav />
       <div className="row">

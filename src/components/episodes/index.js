@@ -28,7 +28,7 @@ function renderRows(episodes) {
 }
 
 const Episodes = ({ episodes }) => (
-  <section className="episodes bg-dark text-white">
+  <section className="episodes text-white">
     <div className="container-fluid pt-4 pb-2">
       <h1 className="episodes__title mb-4 pb-2 section-title">Episodes</h1>
       {renderRows(episodes)}
