@@ -1,135 +1,96 @@
-$range-color: $primary;
+// Styles the jPlayer to look nice
+// @import '~react-jplayer/dist/css/skins/sleek.css';
+// // Styles Play/Pause/Mute etc when icons (<i />) are used for them
+// @import '~react-jplayer/dist/css/controls/iconControls.css';
 
-@keyframes spin {
-  from {transform:rotate(0deg);}
-  to {transform:rotate(360deg);}
-}
+$mediabar-height: 45px;
+$seekbar-height: 30px;
+$seekbar-toggle-width: 20px;
 
-.mediabar {
+// $range-color: $primary;
+//
+// @keyframes spin {
+//   from {transform:rotate(0deg);}
+//   to {transform:rotate(360deg);}
+// }
+//
+.jp-jplayer {
   background: $black;
-  height: 45px;
+  height: $mediabar-height;
+  display: flex;
+  align-items: center;
+  width: 100%;
 }
 
-.play-pause,
-.mute-unmute {
+.jp-gui {
+  width: 100%;
+}
+
+.jp-controls {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.jp-play {
+  border: none;
+  background: none;
+  outline: none;
+  padding: 6px;
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+  margin-left: 5px;
+  cursor: pointer;
+
+  &:active {
+    outline: none;
+  }
+
   > svg {
     width: 20px;
     height: 20px;
-  }
-
-  &--loading > svg {
-    animation-name: spin;
-    animation-duration: .5s;
-    animation-iteration-count: infinite;
-    animation-timing-function: linear;
+    fill: $white;
   }
 }
 
-.media-player {
-  &__controls {
-    .play-pause,
-    .mute-unmute {
-      background: none;
-      border: 0;
-      padding: 0;
-      fill: $white;
-      line-height: 1;
-      cursor: pointer;
-      outline: none;
-    }
+.jp-current-time {
+  color: $white;
+  margin-right: 10px;
+}
 
-    .seekbar {
-      width: 100%;
-    }
+.jp-duration {
+  color: $white;
+  margin-right: 10px;
+}
 
-    .volumebar {
-      max-width: 180px;
-    }
+.jp-progress {
+  height: $seekbar-height;
+  background: $gray-700;
+  width: 100%;
+  padding-right: $seekbar-toggle-width;
+  margin-right: 10px;
+}
+
+.jp-buffer-bar {
+  display: none;
+}
+
+.jp-play-bar {
+  height: $seekbar-height;
+  position: relative;
+
+  &:after {
+    content: '';
+    position: absolute;
+    top: -3px;
+    right: -$seekbar-toggle-width;
+    bottom: -3px;
+    width: $seekbar-toggle-width;
+    background: $primary;
   }
 }
 
-input[type=range] {
-  -webkit-appearance: none;
-  width: 100%;
-  margin: 0.7px 0;
-}
-input[type=range]:focus {
-  outline: none;
-}
-input[type=range]::-webkit-slider-runnable-track {
-  width: 100%;
-  height: 25.6px;
-  cursor: pointer;
-  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
-  background: #484d4d;
-  border-radius: 0px;
-  border: 0px solid #010101;
-}
-input[type=range]::-webkit-slider-thumb {
-  box-shadow: 0px 0px 1px darken($range-color, 10%), 0px 0px 0px darken($range-color, 20%);
-  border: 0px solid $range-color;
-  height: 27px;
-  width: 18px;
-  border-radius: 0px;
-  background: lighten($range-color, 10%);
-  cursor: pointer;
-  -webkit-appearance: none;
-  margin-top: -0.7px;
-}
-input[type=range]:focus::-webkit-slider-runnable-track {
-  background: #545a5a;
-}
-input[type=range]::-moz-range-track {
-  width: 100%;
-  height: 25.6px;
-  cursor: pointer;
-  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
-  background: #484d4d;
-  border-radius: 0px;
-  border: 0px solid #010101;
-}
-input[type=range]::-moz-range-thumb {
-  box-shadow: 0px 0px 1px darken($range-color, 10%), 0px 0px 0px darken($range-color, 20%);
-  border: 0px solid $range-color;
-  height: 27px;
-  width: 18px;
-  border-radius: 0px;
-  background: lighten($range-color, 10%);
-  cursor: pointer;
-}
-input[type=range]::-ms-track {
-  width: 100%;
-  height: 25.6px;
-  cursor: pointer;
-  background: transparent;
-  border-color: transparent;
-  color: transparent;
-}
-input[type=range]::-ms-fill-lower {
-  background: #3c4040;
-  border: 0px solid #010101;
-  border-radius: 0px;
-  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
-}
-input[type=range]::-ms-fill-upper {
-  background: #484d4d;
-  border: 0px solid #010101;
-  border-radius: 0px;
-  box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
-}
-input[type=range]::-ms-thumb {
-  box-shadow: 0px 0px 1px darken($range-color, 10%), 0px 0px 0px darken($range-color, 20%);
-  border: 0px solid $range-color;
-  height: 27px;
-  width: 18px;
-  border-radius: 0px;
-  background: lighten($range-color, 10%);
-  cursor: pointer;
-  height: 25.6px;
-}
-input[type=range]:focus::-ms-fill-lower {
-  background: #484d4d;
-}
-input[type=range]:focus::-ms-fill-upper {
-  background: #545a5a;
+.jp-volume-container {
+  display: none;
 }

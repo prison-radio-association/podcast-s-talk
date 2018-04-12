@@ -1,51 +1,54 @@
 import React from 'react';
-import { Player, withMediaProps, controls } from 'react-media-player';
 import { connect } from 'react-redux';
+import cx from 'classnames';
+import JPlayer, {
+  initializeOptions, Gui, SeekBar, BufferBar,
+  Audio, Mute, Play, PlayBar, VolumeBar, Duration,
+  CurrentTime, BrowserUnsupported,
+} from 'react-jplayer';
 import PlayPause from './play-pause';
-import MuteUnmute from './mute-unmute';
-import { setMediaPlaying, setMediaPaused, setMediaLoading } from '../../actions';
 
-const {
-  CurrentTime,
-  Progress,
-  SeekBar,
-  Duration,
-  Volume,
-  Fullscreen,
-} = controls;
-
-// const { keyboardControls } = utils;
-
-const MediaPlayer = ({ src, setMediaPlaying, setMediaPaused, setMediaLoading }) => {
-  if (!src) {
-    return null;
-  }
-
-  return (
-    <div className="mediabar text-white fixed-bottom d-flex align-items-center">
-      <div className="container-fluid">
-        <Player
-          src={src}
-          autoPlay
-          className="media-player"
-          onPlay={setMediaPlaying}
-          onPause={setMediaPaused}
-          onProgress={setMediaLoading}
-        />
-        <div className="media-player__controls d-flex align-items-center">
-          <PlayPause className="mr-3" />
-          <CurrentTime className="mr-3" />
-          <SeekBar className="seekbar mr-3" />
-          <Duration className="mr-3" />
-          <MuteUnmute className="mr-3 d-none d-md-block" />
-          <Volume className="volumebar d-none d-md-block" />
-        </div>
-      </div>
-    </div>
-  );
+const defaultOptions = {
+  id: 'AudioPlayer',
+  keyEnabled: true,
+  verticalVolume: false,
+  media: {},
 };
 
-export default withMediaProps(connect(
-  state => ({ src: state.media.src }),
-  { setMediaPlaying, setMediaPaused, setMediaLoading },
-)(MediaPlayer));
+initializeOptions(defaultOptions);
+
+const AudioPlayer = ({ src }) => (
+  <div className={cx({
+    'd-none': !src,
+  }, 'mediabar fixed-bottom')}>
+    <JPlayer id={defaultOptions.id} className="jp-sleek">
+      <Audio />
+      <Gui>
+        <div className="jp-controls jp-icon-controls">
+          <Play><PlayPause /></Play>
+          <CurrentTime />
+          <div className="jp-progress">
+            <SeekBar>
+              <BufferBar />
+              <PlayBar />
+            </SeekBar>
+          </div>
+          <Duration />
+          <div className="jp-volume-container">
+            <Mute>
+              <i className="fa">{/* Icon set in css */}</i>
+            </Mute>
+            <div className="jp-volume-slider">
+              <div className="jp-volume-bar-container">
+                <VolumeBar />
+              </div>
+            </div>
+          </div>
+        </div>
+        <BrowserUnsupported />
+      </Gui>
+    </JPlayer>
+  </div>
+);
+
+export default connect(state => ({ src: state.jPlayers.AudioPlayer.src }))(AudioPlayer);
