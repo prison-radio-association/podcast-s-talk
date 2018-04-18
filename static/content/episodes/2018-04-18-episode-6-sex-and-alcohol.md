@@ -2,7 +2,7 @@
 templateKey: episode
 path: /episodes/episode-6-sex-and-alcohol
 title: 'Episode 6: Sex and Alcohol'
-image: /assets/sex talk-5.jpg
+image: /assets/tht-outrach-team-small.jpg
 date: '2018-04-19T00:02:54+01:00'
 audio: 'http://traffic.libsyn.com/sextalk/Sex_Talk_Episode_6_-_Sex_and_Alcohol.mp3'
 ---
