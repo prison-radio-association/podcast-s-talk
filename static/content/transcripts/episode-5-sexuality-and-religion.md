@@ -134,29 +134,29 @@ Hilary: Packed full of so much wisdom and experience. What he lives by is his tr
 
 Adele: We are now joined in the studio by somebody who has been supported by House of Rainbow themselves, Aiwan Obinyan. Welcome to Sex Talk Aiwan!
 
-Aiwin: Thank you very much.
+Aiwan: Thank you very much.
 
 Adele: Lovely to see you.
 
-Aiwin: Great to meet you two, you guys are amazing by the way.
+Aiwan: Great to meet you two, you guys are amazing by the way.
 
 Hilary: You’re too kind thank you.
 
 Adele: How and why did your relationship with House of Rainbow begin?
 
-Aiwin: So it began about 5 years ago. I was in a place where I was attending a church that was very homophobic. Lots of vitriol when it came to homosexuality and expression of homosexuality. I was coming to a place where I didn’t want to live in denial anymore because it was putting a lot of pressure on me in terms of spiritual, mental, emotional, psychological. So I started to look for places where I could go to at least get a bit more information and see if there was a possibility of reconciling my faith with my sexuality. So I just discovered Reverend Jide online really, and went down to one of his services and that was the beginning.
+Aiwan: So it began about 5 years ago. I was in a place where I was attending a church that was very homophobic. Lots of vitriol when it came to homosexuality and expression of homosexuality. I was coming to a place where I didn’t want to live in denial anymore because it was putting a lot of pressure on me in terms of spiritual, mental, emotional, psychological. So I started to look for places where I could go to at least get a bit more information and see if there was a possibility of reconciling my faith with my sexuality. So I just discovered Reverend Jide online really, and went down to one of his services and that was the beginning.
 
 Adele: Can I just ask how old you were when you started attending church?
 
-Aiwin: My mum took me to church from about the age of 5 or 6 and I stayed in the church until about 16, and then left and then I’ve had this love hate relationship with the church, so I’ve gone in bits to the church and then stopped. So a year and then stopped.
+Aiwan: My mum took me to church from about the age of 5 or 6 and I stayed in the church until about 16, and then left and then I’ve had this love hate relationship with the church, so I’ve gone in bits to the church and then stopped. So a year and then stopped.
 
 Adele: And in that whole time, people were being openly homophobic from the age of 5? So this is something that you’ve always had to listen to or is it more when you got older?
 
-Aiwin: Oh no it’s been there from the beginning. That is the Pentecostal church and the Nigerian community unfortunately.
+Aiwan: Oh no it’s been there from the beginning. That is the Pentecostal church and the Nigerian community unfortunately.
 
 Hilary: How old were you when you first knew you were gay?
 
-Aiwin: I was about 7 or 8 years old.
+Aiwan: I was about 7 or 8 years old.
 
 Hilary: How old were you when you came out to your family and how did they react to that?
 
@@ -164,47 +164,47 @@ Aiwin: 30.
 
 Hilary: So you found out you were gay when you were 7 and came out when you were 30?
 
-Aiwin: Yes.
+Aiwan: Yes.
 
  Hilary: So what happened in that period of time? How did you keep this away from everyone? Was it some sort of conflict, were you living a double life?
 
-Aiwin: Oh yeah 100% lies, deceit, keeping stuff inside, which as you may be aware, if you repress things they manifest in all sorts of physical problems, mental problems. It was a very dark place, very depressing place. I was very depressed but didn’t realise I was depressed. That’s another thing that the church doesn’t really talk about, so you don’t know that you’re depressed but you are because you lose the will to live, you lose interest in things you’re normally interested in. Walking around the supermarkets at 2am knowing you should buy food and knowing you should eat, but not being bothered to do that. So yeah.
+Aiwan: Oh yeah 100% lies, deceit, keeping stuff inside, which as you may be aware, if you repress things they manifest in all sorts of physical problems, mental problems. It was a very dark place, very depressing place. I was very depressed but didn’t realise I was depressed. That’s another thing that the church doesn’t really talk about, so you don’t know that you’re depressed but you are because you lose the will to live, you lose interest in things you’re normally interested in. Walking around the supermarkets at 2am knowing you should buy food and knowing you should eat, but not being bothered to do that. So yeah.
 
 Adele: And the church is somewhere in one sense where your family is, that’s where you feel at home, but at the same time you’re rejected by that home and that family?
 
-Aiwin: Yeah, particularly growing up. I was in the church sometimes 6 days a week and the last church I was in I’d be there 17 hours a day because I was head of the sound team there, so it was a massive mega church, 5000 people, and I was head of sound ,and I was there 17 hours a day sometimes. And to know that you’re not accepted, and to hear the pastor that you serve speaking about gays as though they are the lowest life forms every to have existed, it tears you in two. 
+Aiwan: Yeah, particularly growing up. I was in the church sometimes 6 days a week and the last church I was in I’d be there 17 hours a day because I was head of the sound team there, so it was a massive mega church, 5000 people, and I was head of sound ,and I was there 17 hours a day sometimes. And to know that you’re not accepted, and to hear the pastor that you serve speaking about gays as though they are the lowest life forms every to have existed, it tears you in two. 
 
 Adele: Did you have anyone outside the church you could talk to?
 
-Aiwin: No because at that point, just before House of Rainbow, the church was everything because I was there literally 6 days a week, and I wasn’t out to the people that I did know outside of that. I was stuck between a rock and a hard place.
+Aiwan: No because at that point, just before House of Rainbow, the church was everything because I was there literally 6 days a week, and I wasn’t out to the people that I did know outside of that. I was stuck between a rock and a hard place.
 
 Hilary: With your family, how did you tell them and how did they take it?
 
-Aiwin: That’s an interesting story. So I sat my mum down. I said to her I’ve got to tell you this thing, I’m not sure how you’re going to take it but I’m going to tell you anyway and I explained that I was gay I am gay, and I thought I was going to get a whole heap of ‘ah this is not good!’.. but she didn’t, she just looked at me and she smiled and said ‘it’s okay, that’s fine because all we have to do is pray and fast for one week. And it will go away.’
+Aiwan: That’s an interesting story. So I sat my mum down. I said to her I’ve got to tell you this thing, I’m not sure how you’re going to take it but I’m going to tell you anyway and I explained that I was gay I am gay, and I thought I was going to get a whole heap of ‘ah this is not good!’.. but she didn’t, she just looked at me and she smiled and said ‘it’s okay, that’s fine because all we have to do is pray and fast for one week. And it will go away.’
 
 Hilary: So she had a prescription of how to overcome this for you.
 
-Aiwin: Oh yeah 100% she was convinced pray and fast for a week and you’ll be alright.
+Aiwan: Oh yeah 100% she was convinced pray and fast for a week and you’ll be alright.
 
 Hilary: So is there a manual that African parents consult in order to diagnose this and then prescribe something?
 
-Aiwin: It’s called the Bible.
+Aiwan: It’s called the Bible.
 
 Adele: It’s like what Jide said, it’s a cure, like it’s a disease or a malfunction of the human body.
 
-Aiwin: Definitely.
+Aiwan: Definitely.
 
 Hilary: House of Rainbow, so now this is a new family, I think Jide said something in terms of there’s a family that you’re born with and then there’s the family that you make which is your choice family as it were. So the House of Rainbow now I would assume is your new family in that sense. How have they helped you and how have you formed a new relationship in this new community?
 
-Aiwin: Yeah, House of Rainbow’s been very, very important in my development, not just emotionally, mentally, but spiritually, because what it’s helped me to do is understand that those passages, the ‘terror texts’ as Reverend Jide calls them, that have been used to batter gay people are actually not what they are said to be by the church. So understanding that when Paul spoke about so called homosexuals he was actually speaking to people at that time who were Pagans and they were engaged in a lot of activities that were not good for their health and not good for society but they’ve chosen, the Christians have chosen to pick this one little bit there and say that means oh gay people are evil.
+Aiwan: Yeah, House of Rainbow’s been very, very important in my development, not just emotionally, mentally, but spiritually, because what it’s helped me to do is understand that those passages, the ‘terror texts’ as Reverend Jide calls them, that have been used to batter gay people are actually not what they are said to be by the church. So understanding that when Paul spoke about so called homosexuals he was actually speaking to people at that time who were Pagans and they were engaged in a lot of activities that were not good for their health and not good for society but they’ve chosen, the Christians have chosen to pick this one little bit there and say that means oh gay people are evil.
 
 Adele: If there are young gay people listening to this or people that might think that they’re gay or just questioning, what advise do you have? Because I think you’re a fantastic role model and it’s wonderful to hear you speak and just see your face light up when you’re talking to us about House of Rainbow particularly. Yeah what advice would you have?
 
-Aiwin: I think the first thing is to say that there is absolutely nothing wrong with you at all. You were made in the image of God, he loves you with a love that nobody on this earth can fathom or understand and that you are beautiful and you are powerful and your sexuality was given to you for a reason, and it makes you very, very special and to find as quickly as possible a group of people who will affirm you because you are worth being affirmed.
+Aiwan: I think the first thing is to say that there is absolutely nothing wrong with you at all. You were made in the image of God, he loves you with a love that nobody on this earth can fathom or understand and that you are beautiful and you are powerful and your sexuality was given to you for a reason, and it makes you very, very special and to find as quickly as possible a group of people who will affirm you because you are worth being affirmed.
 
 Adele: Do you think things will change in the future? Do you think religion will evolve and in the future same sex couples can get married in church?
 
-Aiwin: Yeah. I think it’s already changing. So there are people like Bishop Carlton Pearson and other ministers – and even a bishop like TD Jakes is already using terminology in his sermons that is essentially saying that gay people should be accepted, and I think that’s going to continue to happen because the ministers who are targeting gay people, we’re starting to find out that they themselves have their own skeletons in their closets ,so people are starting to look at them and think that’s the old army and there is a new group of people who are more enlightened and more open to God’s message for gay people today.
+Aiwan: Yeah. I think it’s already changing. So there are people like Bishop Carlton Pearson and other ministers – and even a bishop like TD Jakes is already using terminology in his sermons that is essentially saying that gay people should be accepted, and I think that’s going to continue to happen because the ministers who are targeting gay people, we’re starting to find out that they themselves have their own skeletons in their closets ,so people are starting to look at them and think that’s the old army and there is a new group of people who are more enlightened and more open to God’s message for gay people today.
 
 You’re listening to sex talk. Find out more my going to sex talk.radio and share your thoughts across social media using hashtag sex talk pod. - 
 
@@ -244,7 +244,7 @@ Hilary: I would never have been able to guess that. Syndrome is…
 
 Adele:  A lot of people suffer from this, or a lot of people do this. A lot of people get in trouble for doing this especially if they hack their partner’s Facebook. Do you want to have a guess? Think of the play and think about what it could be.
 
-Aiwin: Betrayal?
+Aiwan: Betrayal?
 
 Adele: Yeah when you think your partner’s cheating on you.
 
