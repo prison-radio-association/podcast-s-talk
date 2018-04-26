@@ -2,7 +2,7 @@
 templateKey: episode
 path: /episodes/episode-8-Living-With-HIV
 title: 'Episode 8: Living with HIV'
-image: /assets/sex talk-5.jpg
+image: /assets/leasuwanna-cropped.jpg
 date: '2018-04-26T07:30:00+01:00'
 audio: 'http://traffic.libsyn.com/sextalk/Sex_Talk_Episode_8-_Living_with_HIV.mp3'
 ---
