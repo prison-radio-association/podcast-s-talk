@@ -4,7 +4,7 @@ title: 'Episode 8: Living with HIV'
 ---
 **Sex Talk Episode 8 – Living with HIV**
 
-You&#39;re listening to Sex Talk. A podcast all about sex. In this episode expect to hear some colourful language and conversations of a sexual nature. You may want to pop on a pair of headphones for some privacy during this podcast.
+**Voice Over:** You&#39;re listening to Sex Talk. A podcast all about sex. In this episode expect to hear some colourful language and conversations of a sexual nature. You may want to pop on a pair of headphones for some privacy during this podcast.
 
 **Voice over:** Sex talk. Coming up on this episode of sex talk
 
@@ -95,8 +95,11 @@ You&#39;re listening to Sex Talk. A podcast all about sex. In this episode expec
 **Voice Over:** Sex talk. Coming up on this episode of sex talk:
 
 **Leasuwanna:** My partner at the time, I found out he knew but he hadn&#39;t informed me.
+
 **Adele** : Oh gosh. So you had to deal with that as well.
+
 **Hilary** : Did it make you angry?
+
 **Leasuwanna** : Yeah, I was very, very angry and because I hadn&#39;t been in any other relationships over the last 3 years, I&#39;d been tested before, I was able to say I know who gave it to me, where I got it, when I got it, and I kind of think he already knows.
 
 **Adele:** Gary&#39;s got to go soon. Before Gary goes can we play our game with him?
@@ -172,8 +175,6 @@ You&#39;re listening to Sex Talk. A podcast all about sex. In this episode expec
 **Hilary:** The room brightened up as soon as you came in.
 
 **Leasuwanna:** thank you!
-
-
 
 **Adele:** Lovely to meet you, when did your journey with Positively UK begin?
 
