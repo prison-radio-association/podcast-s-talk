@@ -1,7 +1,7 @@
 ---
 templateKey: episode
 path: /episodes/episode-7-The-Sex-Industry
-title: 'Sex Talk Episode 7: The Sex Industry'
+title: 'Episode 7: The Sex Industry'
 image: /assets/sex-talk-8-cropped.jpg
 date: '2018-04-26T07:19:00+01:00'
 audio: 'http://traffic.libsyn.com/sextalk/Sex_Talk_Episode_7_-_The_Adult_Industry.mp3'
