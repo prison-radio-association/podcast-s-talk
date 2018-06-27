@@ -26,6 +26,12 @@
 
 .episodes {
   box-shadow: inset 0px 6px 6px -6px $black;
+  
+  @include media-breakpoint-up(md) {
+    .col-md {
+      max-width: 50%;
+    }
+  }
 }
 
 .about {
