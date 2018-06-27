@@ -2,7 +2,7 @@
 templateKey: episode
 path: /episodes/episode-9-Summer-Special-Sex-On-Holiday
 title: 'Episode 9: Summer Special - Sex On Holiday'
-image: /assets/episode-9-cropped.jpg
+image: /assets/mvimg_20180523_165736143.jpg
 date: '2018-06-28T01:00:00+01:00'
 audio: >-
   http://traffic.libsyn.com/sextalk/Sex_Talk_Episode_9_-_Summer_Special_Podcast_Edit.mp3
