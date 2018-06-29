@@ -1,6 +1,6 @@
 ---
 templateKey: transcript
-title: 'Sex Talk Episode 7: The Sex Industry'
+title: 'Episode 7: The Sex Industry'
 ---
 **Sex Talk Episode 7: The Sex Industry**
 
