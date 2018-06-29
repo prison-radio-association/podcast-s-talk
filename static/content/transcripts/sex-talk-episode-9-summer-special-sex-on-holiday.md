@@ -1,6 +1,6 @@
 ---
 templateKey: transcript
-title: 'Episode 9: Summer Special - Sex on Holiday'
+title: 'Episode 9: Summer Special - Sex On Holiday'
 ---
 **Sex Talk Episode 9 - Summer Special- Sex on Holiday**
 
