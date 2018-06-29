@@ -344,22 +344,15 @@ Yeah after.
 
 **Adele:** I&#39;m going 3
 
-# rd
-.
 
-**Stuart** : Adele says 3
 
-# rd
-, what&#39;s your call Hilary?
+**Stuart** : Adele says 3, what&#39;s your call Hilary?
 
 **Hilary:** 5
 
-# th
 
-**Stuart:** 5
 
-# th
-. Okay and who do you reckon are the most likely to be smart about their sexual health and go for a test?
+**Stuart:** 5. Okay and who do you reckon are the most likely to be smart about their sexual health and go for a test?
 
 **Adele:** Sweden.
 
@@ -437,19 +430,19 @@ False you can yeah.
 
 **Adele:** We thought it might be useful to prepare you for your holidays by knowing how to say &#39;condom in a variety of different languages. So here goes, me, Hilary and Dr Stuart are going to take it in turns. I&#39;m going first, and I should be able to do this because it&#39;s French and my name&#39;s French Adele it&#39;s French. Alright:
 
-**Adele:**  **French**** :** Preservatif
+**Adele:**  French : Preservatif
 
-**Hilary:**  **That&#39;s good 10/10. This is**** Greek ****:**  Profi-lak-tiko.
+**Hilary:**  That&#39;s good 10/10. This is Greek:  Profi-lak-tiko.
 
-**Dr Stuart:**  **That has a certain ring to it. Mine is German**** :** Kondom. I think you would know what I mean.
+**Dr Stuart:** That has a certain ring to it. Mine is German:Kondom. I think you would know what I mean.
 
-**Adele:**  **I can&#39;t do a**** Turkish accent but you have a choice here, you can either say** Preservatif or Kaput.
+**Adele:**  I can&#39;t do a Turkish accent but you have a choice here, you can either say: Preservatif or Kaput.
 
-**Hilary:**  **I swear in another language Kaput means finish? Right the next one is Spanish**** :** Preservativo or Condom will suffice in Spain.
+**Hilary:**  I swear in another language Kaput means finish? Right the next one is Spanish: Preservativo or Condom will suffice in Spain.
 
-**Dr Stuart:**  **I&#39;ve just seen my next one, I&#39;ve got all the easy ones so this is**** Danish or Swedish**: Kondom. There&#39;s a trend here isn&#39;t there and this is condom with a  K.
+**Dr Stuart:** I&#39;ve just seen my next one, I&#39;ve got all the easy ones so this is Danish or Swedish: Kondom. There&#39;s a trend here isn&#39;t there and this is condom with a  K.
 
-**Adele:**  **Italian**** :** Preservativo.
+**Adele:**  Italian: Preservativo.
 
 **Hilary** : I think it&#39;s the same as the Spanish isn&#39;t it? Finally the American I think I&#39;ve got the easiest one, Rubber. A rubber man. Fantastic. Thank you so much Dr Stuart for joining us, I hope that we&#39;ve prepared you and our listeners for their holiday, so they come back feeling relaxed and refreshed, rather than itchy and nervous!
 
