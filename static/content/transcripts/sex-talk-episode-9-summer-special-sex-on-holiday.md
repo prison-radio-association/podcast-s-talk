@@ -4,14 +4,11 @@ title: 'Episode 9: Summer Special - Sex On Holiday'
 ---
 **Sex Talk Episode 9 - Summer Special- Sex on Holiday**
 
- **--** ** Voice Over:** You&#39;re listening to Sex Talk. A podcast all about sex. In this episode expect to hear some colourful language and conversations of a sexual nature. You may want to pop on a pair of headphones for some privacy during this podcast.
+- **--**** Voice Over:** You&#39;re listening to Sex Talk. A podcast all about sex. In this episode expect to hear some colourful language and conversations of a sexual nature. You may want to pop on a pair of headphones for some privacy during this podcast.
 
 **Sex talk.** Coming up on this episode of sex talk:
-
-**Dr Stuart:** Hey guys.
-
+Dr Stuart: Hey guys.
 **Hilary:** Hello Dr Stuart Flanagan how are you?
-
 **Dr Stuart** : Good thanks, it&#39;s pretty dark in here because I&#39;ve got my shades on, I&#39;ve got my sunscreen, I&#39;ve got my water wings… I&#39;m all set for my summer holiday.
 
 **Hilary:** You&#39;re a cool Sexpert Dr Stuart!
@@ -45,11 +42,16 @@ title: 'Episode 9: Summer Special - Sex On Holiday'
 
 **Adele** : Yes in the last series we talked about loads of things to do with the birds and the bees, here are some of the highlights:
 
-- **--**** Voice Over:** Sex talk.
+- **--** ** Voice Over:** Sex talk.
+
 **Garry:** So when I was diagnosed 27 years ago I was given 5 years to live and I was 23 at the time in college.
+
 **Aiwan** : I explained that I was gay, I am gay, and she just looked at me and she smiled and she said &quot;it&#39;s okay that&#39;s fine because all we have to do is pray and fast for one week and it will go away.&quot;
+
 **Sophie** : With the condom and you&#39;re protected, you&#39;re like it&#39;s with a condom, I&#39;m sucking rubber for £250!
+
 **Leasuwanna** : I instantly knew that it was HIV. My partner at the time… I found out he knew, but he hadn&#39;t informed me.
+
 **Voice Over** : Sex talk.-
 
 
@@ -347,22 +349,15 @@ Yeah after.
 
 **Adele:** I&#39;m going 3
 
-# rd
-.
 
-**Stuart** : Adele says 3
 
-# rd
-, what&#39;s your call Hilary?
+**Stuart** : Adele says 3, what&#39;s your call Hilary?
 
 **Hilary:** 5
 
-# th
 
-**Stuart:** 5
 
-# th
-. Okay and who do you reckon are the most likely to be smart about their sexual health and go for a test?
+**Stuart:** 5. Okay and who do you reckon are the most likely to be smart about their sexual health and go for a test?
 
 **Adele:** Sweden.
 
@@ -440,19 +435,19 @@ False you can yeah.
 
 **Adele:** We thought it might be useful to prepare you for your holidays by knowing how to say &#39;condom in a variety of different languages. So here goes, me, Hilary and Dr Stuart are going to take it in turns. I&#39;m going first, and I should be able to do this because it&#39;s French and my name&#39;s French Adele it&#39;s French. Alright:
 
-**Adele:**  **French**** :** Preservatif
+**Adele:**  French : Preservatif
 
-**Hilary:**  **That&#39;s good 10/10. This is**** Greek ****:**  Profi-lak-tiko.
+**Hilary:**  That&#39;s good 10/10. This is Greek:  Profi-lak-tiko.
 
-**Dr Stuart:**  **That has a certain ring to it. Mine is German**** :** Kondom. I think you would know what I mean.
+**Dr Stuart:** That has a certain ring to it. Mine is German:Kondom. I think you would know what I mean.
 
-**Adele:**  **I can&#39;t do a**** Turkish accent but you have a choice here, you can either say** Preservatif or Kaput.
+**Adele:**  I can&#39;t do a Turkish accent but you have a choice here, you can either say: Preservatif or Kaput.
 
-**Hilary:**  **I swear in another language Kaput means finish? Right the next one is Spanish**** :** Preservativo or Condom will suffice in Spain.
+**Hilary:**  I swear in another language Kaput means finish? Right the next one is Spanish: Preservativo or Condom will suffice in Spain.
 
-**Dr Stuart:**  **I&#39;ve just seen my next one, I&#39;ve got all the easy ones so this is**** Danish or Swedish**: Kondom. There&#39;s a trend here isn&#39;t there and this is condom with a  K.
+**Dr Stuart:** I&#39;ve just seen my next one, I&#39;ve got all the easy ones so this is Danish or Swedish: Kondom. There&#39;s a trend here isn&#39;t there and this is condom with a  K.
 
-**Adele:**  **Italian**** :** Preservativo.
+**Adele:**  Italian: Preservativo.
 
 **Hilary** : I think it&#39;s the same as the Spanish isn&#39;t it? Finally the American I think I&#39;ve got the easiest one, Rubber. A rubber man. Fantastic. Thank you so much Dr Stuart for joining us, I hope that we&#39;ve prepared you and our listeners for their holiday, so they come back feeling relaxed and refreshed, rather than itchy and nervous!
 
