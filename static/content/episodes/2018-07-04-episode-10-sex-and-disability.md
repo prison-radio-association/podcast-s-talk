@@ -2,7 +2,7 @@
 templateKey: episode
 path: /episodes/episode-10-Sex-and-Disability
 title: 'Episode 10: Sex and Disability'
-image: /assets/sex-talk-15-copy.jpg
+image: /assets/sex-talk-15.jpg
 date: '2018-07-04T12:39:28+01:00'
 audio: >-
   http://traffic.libsyn.com/sextalk/Sex_Talk_Podcast_Episode_10_-_Sex_and_Disability.mp3
