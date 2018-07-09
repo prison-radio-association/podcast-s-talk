@@ -4,29 +4,119 @@
   &__content {
     padding-top: 56px;
     margin-top: -56px;
-    height: 100vh;
+    min-height: 100vh;
 
     @media screen and (orientation: portrait) and (max-width: breakpoint-max(sm)) {
-      height: auto;
+      min-height: 0;
       padding-top: 76px;
     }
 
     @include media-breakpoint-up(md) {
-      height: auto;
+      min-height: 0;
     }
   }
 
-  .logo,
-  .artwork {
-    max-width: 50%;
-    max-height: 100%;
-    
-    @media screen and (orientation: portrait) and (max-width: breakpoint-max(sm)) {
-      max-width: 100%;
+  &__element {
+    .wrapper {
+      position: relative;
     }
 
-    @include media-breakpoint-up(lg) {
-      max-width: 35%;
+    &--logo {
+      @include media-breakpoint-down(sm) {
+        max-width: 400px;
+        width: 80%;
+      }
+      
+      @include media-breakpoint-up(md) {
+        width: 40%;
+      }
+
+      @include media-breakpoint-up(xl) {
+        width: 33%;
+      }
+
+      .wrapper {
+        padding-top: 76%;
+      }
+
+      .logo {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+      }
+    }
+
+    &--video {
+      .wrapper {
+        padding-top: 56%;
+      }
+
+      @include media-breakpoint-down(md) {
+        margin-top: 10px;
+        width: 100%;
+        max-width: 420px;
+      }
+    }
+
+    &--artwork {
+      width: 30%;
+
+      .masthead--hasVideo & {
+        display: none;
+      }
+        
+      .wrapper {
+        padding-top: 100%;
+      }
+
+      .artwork {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+      }
+  
+      @include media-breakpoint-down(sm) {
+        max-width: 400px;
+        width: 80%;
+      }
+    }
+  }
+  .vimeo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+
+    &-image {
+      background-size: cover;
+      background-position: center;
+    }
+
+    &-play-button {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 0;
+      height: 0;
+      border-style: solid;
+      border-width: 18px 0 18px 36px;
+      border-color: transparent transparent transparent $secondary;
+      opacity: .8;
+      background: none;
+      cursor: pointer;
+
+      &:hover {
+        opacity: 1;
+      }
+    }
+
+    iframe {
+      height: 100%;
+      width: 100%;
     }
   }
 }

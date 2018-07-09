@@ -2,7 +2,8 @@ import 'babel-polyfill';
 import React from 'react';
 import { Router } from 'react-router-dom';
 import { Provider } from 'react-redux';
-import { configureAnchors } from 'react-scrollable-anchor'
+import { configureAnchors } from 'react-scrollable-anchor';
+import { CookiesProvider } from 'react-cookie';
 
 configureAnchors({ offset: -56, scrollDuration: 400 })
 
@@ -18,7 +19,9 @@ exports.replaceRouterComponent = ({ history }) => {
 
   return ({ children }) => (
     <Provider store={store}>
-      <Router history={history}>{children}</Router>
+      <CookiesProvider>
+        <Router history={history}>{children}</Router>
+      </CookiesProvider>
     </Provider>
   );
 };

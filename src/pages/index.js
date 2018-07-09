@@ -14,6 +14,7 @@ class IndexPage extends Component {
   render() {
     const { data: { 
       episodes: { edges: episodeEdges },
+      animations,
       transcripts: { edges: transcriptEdges },
       aboutPage,
       contactPage,
@@ -30,12 +31,18 @@ class IndexPage extends Component {
       return episode;
     });
 
+    let heroVid;
+
+    if (animations && animations.edges.length) {
+      heroVid = animations.edges[0].node.frontmatter.vid
+    }
+
     return (
       <main>
         <Helmet>
           <meta name="description" content={aboutPage.excerpt} />
         </Helmet>
-        <Hero episode={episodes[episodes.length - 1]} />
+        <Hero episode={episodes[0]} vid={heroVid} />
         <div id="episodes"><Episodes episodes={episodes} /></div>
         <div id="about"><About markup={aboutPage.html} /></div>
         <div id="contact"><Contact markup={contactPage.html} socialmedia={socialmedia} /></div>
@@ -64,11 +71,23 @@ export const query = graphql`
   query IndexQuery {
     episodes: allMarkdownRemark(
       filter: { frontmatter: { templateKey: { eq: "episode" } } },
-      sort: { order: ASC, fields: [frontmatter___date] }
+      sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {
         node {
           ...EpisodeFragment
+        }
+      }
+    },
+    animations: allMarkdownRemark(
+      filter: { frontmatter: { templateKey: { eq: "animation" } } },
+      sort: { order: DESC, fields: [frontmatter___date] }
+    ) {
+      edges {
+        node {
+          frontmatter {
+            vid
+          }
         }
       }
     },

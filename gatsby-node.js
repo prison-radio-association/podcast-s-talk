@@ -75,7 +75,7 @@ exports.createPages = ({ boundActionCreators, graphql }) => {
           break;
 
         default:
-          if (typeof node.frontmatter.path !== 'undefined') {
+          if (node.frontmatter.path) {
             createPage({
               path: node.frontmatter.path,
               component: path.resolve(`src/templates/${String(node.frontmatter.templateKey)}.js`),

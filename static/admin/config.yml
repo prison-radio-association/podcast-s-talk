@@ -22,6 +22,18 @@ collections:
       - {label: "Audio", name: "audio", widget: "string"}
       - {label: "Content", name: "body", widget: "markdown"}
 
+  - name: "animations"
+    label: "Animations"
+    folder: "static/content/animations"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "animation"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Vimeo ID", name: "vid", widget: "string"}
+      - {label: "Content", name: "body", widget: "markdown"}
+
   - name: "transcripts"
     label: "Transcripts"
     folder: "static/content/transcripts"

@@ -8,6 +8,7 @@ import gplay from './gplay.png';
 import spotify from './spotify.png';
 import spreaker from './spreaker.png';
 import stitcher from './stitcher.png';
+import gpodcasts from './gpodcasts.png';
 
 class Subscribe extends Component {
   constructor(props) {
@@ -63,8 +64,8 @@ class Subscribe extends Component {
             <a className="mb-2 d-block" href="https://www.spreaker.com/show/2894418" target="_blank">
               <img src={spreaker} alt="Listen on Spreaker" />
             </a>
-            <a className="mb-2 d-block" href="http://sextalk.libsyn.com/gpm" target="_blank">
-              <img src={gplay} alt="Listen on Google Play" />
+            <a className="mb-2 d-block" href="https://www.google.com/podcasts?feed=aHR0cDovL3NleHRhbGsubGlic3luLmNvbS9yc3M%3D" target="_blank">
+              <img src={gpodcasts} alt="Listen on Google Podcasts" />
             </a>
           </div>
         </div>
