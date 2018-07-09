@@ -39,7 +39,8 @@
     "react-stickynode": "^1.4.1",
     "react-vimeo": "^2.0.0",
     "remark": "^9.0.0",
-    "remark-react": "^4.0.1"
+    "remark-react": "^4.0.1",
+    "universal-cookie": "^2.2.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.6",

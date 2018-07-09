@@ -2,6 +2,7 @@ import React from 'react';
 import { Provider } from 'react-redux';
 import { renderToString } from 'react-dom/server';
 import { CookiesProvider } from 'react-cookie';
+import Cookies from 'universal-cookie';
 
 import createStore from './src/store';
 
@@ -10,7 +11,7 @@ exports.replaceRenderer = ({ bodyComponent, replaceBodyHTMLString }) => {
   
   const ConnectedBody = () => (
     <Provider store={store}>
-      <CookiesProvider>
+      <CookiesProvider cookies={new Cookies()}>
         {bodyComponent}
       </CookiesProvider>
     </Provider>
