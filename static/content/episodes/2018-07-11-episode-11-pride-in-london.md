@@ -2,7 +2,7 @@
 templateKey: episode
 path: /episodes/episode-11-Pride-in-London
 title: 'Episode 11: Pride in London'
-image: /assets/hilary-and-adele-pride-cropped.jpg
+image: /assets/hilary-and-adele-pride-cropped-2.jpg
 date: '2018-07-11T15:21:53+01:00'
 audio: >-
   http://traffic.libsyn.com/sextalk/Sex_Talk_Episode_11_Pride_in_London_Special_Podcast.mp3
