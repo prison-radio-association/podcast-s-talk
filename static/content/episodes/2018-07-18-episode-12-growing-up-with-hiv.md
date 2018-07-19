@@ -5,7 +5,7 @@ title: 'Episode 12: Growing up with HIV'
 image: /assets/horcelie-cropped.jpg
 date: '2018-07-18T10:53:49+01:00'
 audio: >-
-  http://traffic.libsyn.com/sextalk/Sex_Talk_Episode_11_Pride_in_London_Special_Podcast.mp3
+  http://traffic.libsyn.com/sextalk/Sex_Talk_Episode_12_-_Growing_up_with_HIV_Podcast.mp3
 ---
 There are currently around 1000 children living with HIV in the UK.
 
