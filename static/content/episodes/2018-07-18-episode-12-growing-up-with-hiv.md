@@ -2,7 +2,7 @@
 templateKey: episode
 path: /episodes/episode-12-Growing-up-with-HIV
 title: 'Episode 12: Growing up with HIV'
-image: /assets/pra_sextalk_social_post_v5.png
+image: /assets/img_20180606_154257304_ll-copy.jpg
 date: '2018-07-18T10:53:49+01:00'
 audio: >-
   http://traffic.libsyn.com/sextalk/Sex_Talk_Episode_11_Pride_in_London_Special_Podcast.mp3
