@@ -2,7 +2,7 @@
 templateKey: episode
 path: /episodes/episode-16-HIV-Myth-Buster-Special
 title: 'Episode 16: HIV Myth Buster Special'
-image: /assets/mvimg_20180704_171555891-copy.jpg
+image: /assets/mvimg_20180704_171546640-copy.jpg
 date: '2018-08-16T06:29:30+01:00'
 audio: >-
   http://traffic.libsyn.com/sextalk/Sex_Talk_Episode_16-_HIV_Myth_Buster_Special.mp3
