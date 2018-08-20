@@ -10,7 +10,7 @@ In this episode expect to hear some colourful language and conversations of a se
 
 You may want to pop on a pair of headphones for some privacy during this podcast.
 
-*Voice Over:** Sex talk. Coming up on this episode of sex talk:
+**Voice Over:** Sex talk. Coming up on this episode of sex talk:
 
 **Adele:** People who are having sex don&#39;t realise it could happen to them, you don&#39;t have to be gay, you don&#39;t have to be from Africa, you don&#39;t have to be black, it can happen to anybody, and the sooner we get this across hopefully people will start to lessen with the stigma and realise it&#39;s not something you get from promiscuous behaviour.
 
