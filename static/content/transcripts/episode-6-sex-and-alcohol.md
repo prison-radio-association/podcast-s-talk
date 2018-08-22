@@ -38,8 +38,6 @@ If you&#39;ve listened to the previous five episodes, you would have heard us de
 
 **Adele:** On this episode of Sex Talk we will be hearing from some of the wonderful Outreach Team at the Terrence Higgins Trust, who walk around the clubs and bars in London&#39;s Soho every Thursday evening handing out condoms and advice to those on a night out.
 
-
-
 **Hilary:** We&#39;ll also be joined in the studio by Alex, somebody who&#39;s got his own story to tell about taking risks after a night of big drinking.
 
 **Adele** : But as a bit of a warm up it&#39;s that time again, the time where me and Hilary use our right to exercise our vocal chords with our favourite feature, Word Porn!
@@ -136,7 +134,7 @@ If you&#39;ve listened to the previous five episodes, you would have heard us de
 
 **Alex:** It&#39;s one of those interesting things because when I go on these nights out generally either people are starting to drink or might be a little bit drunk. The conversation gets quite funny and quite lairy, and I mean some people get taken aback at how easily I&#39;m able to talk about sex in quite an open way, but the way people want to talk to you about it, it&#39;s about getting tested and it&#39;s those lines of defence you have available to you. And I suppose if you&#39;re walking into a situation where you might go and have sex that night and if your inhibitions might be lowered, if you can walk into that having tested and knowing that you are HIV negative, that you haven&#39;t got any of the other STIs, that you&#39;re being responsible to other people and you&#39;re not passing something on to to other people, and vice versa. If you&#39;re in the same situation and you know the other person is testing as well regularly that you&#39;re putting yourself at a lot less risk, and that doesn&#39;t necessarily remove all of those nervous questions that need to be asked and navigating safer sex but when you&#39;ve got testing, treatment and prevention and PrEp available to you, it makes the conversations when you&#39;re drunk a lot easier to have because a lot of the time it&#39;s really flippant. If I sometimes, potentially, might do that, I will walk into a situation with someone, be that through an app or in person in a bar god forbid, people still do that apparently… And it&#39;s really easy to have that conversation and say &#39;by the way I&#39;m HIV positive, I&#39;m undetectable which means I can&#39;t pass it on&#39; they&#39;re like &#39;okay let&#39;s do it&#39;.
 
-**Hilary:** Alex, looking at you now you&#39;re a very healthy man, had you not made that disclosure I would never have known that you have HIV – undeletable of course. But how has that diagnosis changed your life? Paint a picture for people so that they&#39;re empowered by your personal journey.
+**Hilary:** Alex, looking at you now you&#39;re a very healthy man, had you not made that disclosure I would never have known that you have HIV – undetectable of course. But how has that diagnosis changed your life? Paint a picture for people so that they&#39;re empowered by your personal journey.
 
 **Alex:** So if I can look back to the night, or back then when it was going on I was a very nervous guy, very little self confidence, finding myself being hit on by attractive men was such an unknown experience, so there was no navigation of safe sex, there was no &#39;by the way are you HIV positive are you not?&#39; Just &#39;oh my god this is happening&#39;, so the journey I&#39;ve been on since then, the conversations around sex and the conversations around my own self respect of my own body, that&#39;s been such a huge thing for me. Because back then I was going out a lot, the nervous guy I was then who had very little self respect, and allowed other people to pressure me into situations I wouldn&#39;t necessarily have put myself in, is totally different to the person I am now, and I have control of my body and I have control of who I let access my body I suppose is the way to put it, and it is that self respect thing and really caring about myself as a human being, and knowing if I get myself into that situation when I&#39;m drunk, because I have respect of my own body and I can respect myself, it means other people respect it too.
 
@@ -216,8 +214,6 @@ Richard: And welcome Javier!
 
 **Hilary** : Great example and I&#39;m sure it&#39;s one that&#39;s common to most of our listeners. Well I went out and asked the general public what they thought, and here&#39;s the result…
 
-
-
 **Hilary** : You can use substitutes such as cling film instead of condoms true or false?
 
 True.
@@ -228,13 +224,11 @@ That&#39;s false, absolutely false! Cling film! I don&#39;t believe that at all,
 
 I think condoms are designed to do what they do and what you mentioned there definitely is not designed for it so I would say false.
 
-No I don&#39;t agree with it I think it&#39;s not false it&#39;s just b\*\*\* s\*\*\*\*…
+No I don&#39;t agree with it I think it&#39;s not false it&#39;s just b\*\*\* s\*\*\**…
 
 False.
 
 I never tried it but maybe I don&#39;t know – false.
-
-
 
 **Adele:** I like the first guy that was like true.
 
