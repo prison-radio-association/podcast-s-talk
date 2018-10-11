@@ -2,7 +2,7 @@
 templateKey: episode
 path: /episodes/episode-19-Sex-and-Consent
 title: 'Episode 19: Sex and Consent'
-image: /assets/adele-hilary-cropped.jpg
+image: /assets/cropped-george2.jpg
 date: '2018-10-11T11:54:08+01:00'
 audio: >-
   http://traffic.libsyn.com/sextalk/Sex_Talk_Podcast_Episode_18-_HIV_can_affect_anyone.mp3
