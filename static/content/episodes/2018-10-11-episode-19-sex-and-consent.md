@@ -2,7 +2,7 @@
 templateKey: episode
 path: /episodes/episode-19-Sex-and-Consent
 title: 'Episode 19: Sex and Consent'
-image: /assets/cropped-george2.jpg
+image: /assets/george.jpg
 date: '2018-10-11T11:54:08+01:00'
 audio: 'http://traffic.libsyn.com/sextalk/Sex_Talk_Episode_19-_Consent.mp3'
 ---
