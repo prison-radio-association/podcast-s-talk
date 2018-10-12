@@ -10,6 +10,7 @@ import banana from './banana.jpg';
 
 const links = [
   ['/', 'Home'],
+  ['/videos', 'Videos'],
   ['/#episodes', 'Episodes'],
   ['/#about', 'About'],
   ['/#contact', 'Contact'],
