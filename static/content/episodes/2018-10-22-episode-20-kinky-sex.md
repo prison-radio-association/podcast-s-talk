@@ -2,7 +2,7 @@
 templateKey: episode
 path: /episodes/episode-20-Kinky-Sex
 title: 'Episode 20: Kinky Sex'
-image: /assets/sex talk-5.jpg
+image: /assets/sarah-and-zak.jpg
 date: '2018-10-22T16:33:02+01:00'
 audio: 'http://traffic.libsyn.com/sextalk/Sex_Talk_Episode_20-_Kinky_Sex.mp3'
 ---
