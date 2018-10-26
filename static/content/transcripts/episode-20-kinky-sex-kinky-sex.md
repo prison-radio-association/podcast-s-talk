@@ -1,6 +1,6 @@
 ---
 templateKey: transcript
-title: 'Episode 20: Kinky Sex: Kinky Sex'
+title: 'Episode 20: Kinky Sex'
 ---
 **Sex Talk- Episode**  **20**  **Kinky**  **Sex**
 
