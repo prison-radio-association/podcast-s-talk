@@ -93,7 +93,7 @@ Sex talk. -
 
 **Adele** : Yeah because the law&#39;s one thing and so we can&#39;t give him a pass for that but in terms of etiquette and how to go about things I think we can be a bit more understanding and let him get on board with the way society is now, it&#39;s great that he&#39;s trying to change. To hear the follow up conversation Anna had with Dan go to [DeathSexMoney.org](http://DeathSexMoney.org) and look for the episode called &#39;Hot Dates- I&#39;m supposed to be certain&#39;.
 
-- **--**** Voice Over:** You&#39;re listening to sex talk. Find out more by going to [sextalk.radio](http://www.apple.com)and share your thoughts across social media using #SexTalkPod -
+**Voice Over:** You&#39;re listening to sex talk. Find out more by going to [sextalk.radio](https://sextalk.radio) and share your thoughts across social media using #SexTalkPod -
 
 **Adele:** So in this episode of Sex Talk we&#39;re focusing on sexual consent. According to the Crime Survey across England and Wales, [1 in 5 women aged 16-59 have experienced some kind of sexual violence since the age of 16.](https://www.theguardian.com/uk-news/2018/feb/08/sexual-assault-women-crime-survey-england-wales-ons-police-figures) I don&#39;t think for me personally there&#39;s any grew area with this, this is black and white, somebody knows that they&#39;re in the wrong.
 
@@ -239,7 +239,7 @@ Sex talk. -
 
 **George** : It&#39;s a pleasure to be here thank you for having me.
 
-- **--**** Voice Over: Sex talk. -**
+**Voice Over:** Sex talk.
 
 
 
