@@ -2,7 +2,7 @@
 templateKey: episode
 path: /episodes/episode-23-Women-and-HIV
 title: 'Episode 23: Women and HIV'
-image: /assets/adele-hilary-cropped.jpg
+image: /assets/episode-23-cropped.jpg
 date: '2018-11-09T09:33:50+00:00'
 audio: >-
   http://traffic.libsyn.com/sextalk/Sex_Talk_Episode_23-_Women_and_HIV_Podcast.mp3
