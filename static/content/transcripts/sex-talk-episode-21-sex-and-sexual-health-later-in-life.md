@@ -1,6 +1,6 @@
 ---
 templateKey: transcript
-title: 'Sex Talk Episode 21: Sex and Sexual Health Later in Life'
+title: 'Episode 21: Sex and Sexual Health Later in Life'
 ---
 **Voice Over:** You&#39;re listening to sex talk, a podcast all about sex.
 In this episode expect to hear some colourful language and conversations of a sexual nature. You may want to pop on a pair of headphones for some privacy during this podcast.
