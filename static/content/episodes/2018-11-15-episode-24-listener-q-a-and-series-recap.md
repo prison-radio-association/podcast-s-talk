@@ -2,7 +2,7 @@
 templateKey: episode
 path: /episodes/episode-24-Listener-Q&A-and-Series-Recap
 title: 'Episode 24: Listener Q&A and Series Recap'
-image: /assets/adele-hilary-cropped.jpg
+image: /assets/img_20180926_165134170-2-cropped.jpg
 date: '2018-11-15T13:34:03+00:00'
 audio: >-
   http://traffic.libsyn.com/sextalk/Sex_Talk_Episode_23-_Women_and_HIV_Podcast.mp3
