@@ -18,7 +18,7 @@ title: 'Episode 22: Sex and Relationship Education'
 
 **Adele** : Welcome to Sex Talk with me Adele
 
-**Hilary: ** And me Hilary. Sex talk is the amazing podcast where we get to share some of the most interesting stories about sex, sexual health and HIV. We&#39;ve had some amazing guests appear on this show tell their truth, live their truth and we hope we&#39;ve shared so many interesting facts that&#39;s making you completely revaluate your sex life.
+**Hilary:** And me Hilary. Sex talk is the amazing podcast where we get to share some of the most interesting stories about sex, sexual health and HIV. We&#39;ve had some amazing guests appear on this show tell their truth, live their truth and we hope we&#39;ve shared so many interesting facts that&#39;s making you completely revaluate your sex life.
 
 **Adele:** I&#39;ve re-evaluated my whole life in this podcast.
 
@@ -52,7 +52,7 @@ title: 'Episode 22: Sex and Relationship Education'
 
 **Adele** : I got some proper schooling off you then, you taught me more than my actual teacher when I was at school. This should be in school this stuff. It&#39;s true. I&#39;ve learned more from this podcast than I did when I was pre 16.
 
-**Hilary: ** Absolutely, you couldn&#39;t have said it better Adele.
+**Hilary:** Absolutely, you couldn&#39;t have said it better Adele.
 
 **Adele** : I think it&#39;s a little bit sad that out of everyone we&#39;ve spoken to I don&#39;t think anybody has given a glowing review of the sexual education system, but the good news is it&#39;s getting addressed and we&#39;re going to talk about that today in this podcast. Sex education is obviously a very hot topic, which is why we&#39;ve decided to focus on it in this episode of Sex Talk.
 
@@ -60,7 +60,7 @@ title: 'Episode 22: Sex and Relationship Education'
 
 **Adele:** Lizzie and Stuart will be talking to us about the work they&#39;re doing to educate young people about sex, and what they think needs to change...
 
-**Hilary: ** The current relationship and sex education guidelines were written 18 years ago, before the teenagers we&#39;re going to hearing from today were even born.
+**Hilary:** The current relationship and sex education guidelines were written 18 years ago, before the teenagers we&#39;re going to hearing from today were even born.
 
 **Adele:** In the year 2000, mobile phones were only just becoming popular, and they were for making calls, sending texts... and playing Snake if you were lucky. There was no Snapchat, Instagram or WhatsApp, no Tinder, no Grindr…
 
@@ -68,7 +68,7 @@ title: 'Episode 22: Sex and Relationship Education'
 
 
 
-**Adele: ** The good news is, the guidelines are finally being refreshed in England, and new guidelines will be in place by 2020.
+**Adele:** The good news is, the guidelines are finally being refreshed in England, and new guidelines will be in place by 2020.
 
 **Hilary:** Joining us now is HIV and Sexual Health specialist, Dr Stuart Flanagan, and Lizzie Jordan, founder of a social enterprise called Think2Speak, which helps staff working with young people tackle conversations they might usually avoid. Lizzie also speaks directly to young people about HIV and sexual health.
 
@@ -78,11 +78,11 @@ title: 'Episode 22: Sex and Relationship Education'
 
 **Adele** : I&#39;m great thanks, I&#39;m glad to see you got the memo about the dress code, you and Hilary match.
 
-**Hilary: ** Yes Dr Stuart Liverpool. I&#39;m an Arsenal man.
+**Hilary:** Yes Dr Stuart Liverpool. I&#39;m an Arsenal man.
 
 **Adele** : Me and Lizzie are in blue, we&#39;re also Liverpool fans – her face is like &#39;no I&#39;m not&#39;, yeah you are, just for this podcast and we&#39;ve decided Liverpool have got a third kit this year which is blue.
 
-**Hilary: ** I&#39;m a minority, I&#39;ll take that. You have both mentioned in previous episodes of Sex Talk the importance of good sex and relationship education for young people. A 2016Terrence Higgins Trust survey of young people aged between 16 and 24 found that one in seven had not received anysex and relationships education during their time at school, does this surprise you?
+**Hilary:** I&#39;m a minority, I&#39;ll take that. You have both mentioned in previous episodes of Sex Talk the importance of good sex and relationship education for young people. A 2016Terrence Higgins Trust survey of young people aged between 16 and 24 found that one in seven had not received anysex and relationships education during their time at school, does this surprise you?
 
 **Dr Stuart** : I have to say not really. You were talking earlier about HIV and how much work there still needs to be done about educating not just young people but everyone about where we are with HIV health and living with HIV. I think sexual health in general needs to be completely relooked at. It definitely needs to be looked at in the context of personal relationships. I think just in the last 18 months with the Me Too movement and all of the conversations about consent, the way we think about how young people relate to each other, the relationship they have with themselves in terms of their sexual health really needs to be thought about and really change root and branch. I think we also need to think about talking to little people, toddler age upwards about what consent means when saying no is respected and so the conversation about how we relate to each other needs to start at that age and then as they get older and start thinking about the context of sexual relationships it should all fit together really.
 
@@ -102,7 +102,7 @@ title: 'Episode 22: Sex and Relationship Education'
 
 **Lizzie:** They so rarely get the option to speak, actually where they have a safe space where they can ask you what they really want to ask, that can be so insightful of what comes out of that because so often it&#39;s either assumed that they know or assumed that they&#39;re going to google it and we both know what happens when you assume or when you google something, so being able to sit with somebody who might not have the answers but is able to have a conversation with you to say okay let&#39;s talk this through and let&#39;s signpost you, young people are living in a different world to the one we grew up in and we have to accept that and we have to move on with that. They have all this technology at their fingertips that can take you down very different paths. So actually if somebody&#39;s able to sit with you and have a conversation that is the most important thing because that can prevent so much.
 
-**Hilary: ** Adele and I have done myth busters with Dr Stuart and we&#39;ve gone out to the streets and we&#39;ve spoken to complete strangers and we&#39;ve asked them what we think are general sexual health questions, and we&#39;re amazed by some of the responses we get sometimes. What sort of things do you pick up on in schools when you go in and speak to young people?
+**Hilary:** Adele and I have done myth busters with Dr Stuart and we&#39;ve gone out to the streets and we&#39;ve spoken to complete strangers and we&#39;ve asked them what we think are general sexual health questions, and we&#39;re amazed by some of the responses we get sometimes. What sort of things do you pick up on in schools when you go in and speak to young people?
 
 **Lizzie:** Often they don&#39;t know where to go to, they don&#39;t know who to turn to, they don&#39;t know where the sexual health clinic is, they don&#39;t know the sexual health clinic is a thing. Consent and actually what is a healthy relationship, and where those boundaries sit is a consistent thing that comes up and people don&#39;t necessarily have the communication tools or the confidence to say and it&#39;s usually my friend… It is very much that I feel something&#39;s not quite right but I just don&#39;t know who to talk to and we&#39;re having services cut left right and centre, young people are having to be more creative in how they find answers and that&#39;s not always in the way we&#39;d want them to, to equip them with the skills that they really need to be happen and healthy.
 
@@ -126,7 +126,7 @@ title: 'Episode 22: Sex and Relationship Education'
 
 **Voice Over:** Sex talk. Starting a conversation about sex.
 
-**Adele: ** A couple of things there, so I mean first of all, Natasha for Prime Minister. Move over Theresa May. So what really stood out to me was the assumed knowledge that Lizzie was talking about, what Stuart said about that it all sounded very biological and mechanical and medicinal and there was definite lacking of the human element, so relationships was mentioned quite a lot as well.
+**Adele:** A couple of things there, so I mean first of all, Natasha for Prime Minister. Move over Theresa May. So what really stood out to me was the assumed knowledge that Lizzie was talking about, what Stuart said about that it all sounded very biological and mechanical and medicinal and there was definite lacking of the human element, so relationships was mentioned quite a lot as well.
 
 **Dr Stuart:** I thought Natasha was so insightful because she covered like you said Adele so many things. The biological aspects that are really important, but also the relationships and the power in the relationship and the shaming that can happen, and I think a lot of that is learned behaviour that maybe comes from peers but definitely from accessing things online. Definitely porn, even movies, TV what we see when we&#39;re growing up, the way we relate to each other comes from that kind of learned behaviour, this is what you&#39;re supposed to do when you&#39;re an adult or what you&#39;re supposed to do when you&#39;re in a relationship.
 
@@ -136,7 +136,7 @@ title: 'Episode 22: Sex and Relationship Education'
 
 **Lizzie:** The issue with that is if somebody&#39;s ill that week then they&#39;ve not had that week of education, so it&#39;s got to be built on and we&#39;ve got to trust and respect that educators are, for one trained – starting from a place that they&#39;re actually competent and confident.
 
-**Hilary: ** Can I ask both of you did it surprise you hearing those young ladies say that they weren&#39;t even taught about pregnancy?
+**Hilary:** Can I ask both of you did it surprise you hearing those young ladies say that they weren&#39;t even taught about pregnancy?
 
 **Dr Stuart:** It doesn&#39;t surprise me because there&#39;s such huge variability in what young people are taught and find out about and what the schools offer. It&#39;s such a wide range really and there will be gaps. It&#39;s really disappointing that there&#39;s such a big area that isn&#39;t discussed with young women and with young men and I think one of the points that Natasha made that&#39;s so important is that everyone needs to have the education about everyone else so boys need to know about periods, everyone needs to know about transgender people and gender identity. There shouldn&#39;t be any gaps, this doesn&#39;t apply to you so you don&#39;t need to know about it, because in the future those people are adults who become ignorant of what other people in society are experiencing so everybody needs to know everything. I think knowledge is always a good thing.
 
@@ -146,7 +146,7 @@ title: 'Episode 22: Sex and Relationship Education'
 
 **Adele** : Okay let me get my Wordsworth dictionary of sex and I think it should be lady&#39;s first.
 
-**Hilary: ** Indeed well Lizzie&#39;s never played this game before so…
+**Hilary:** Indeed well Lizzie&#39;s never played this game before so…
 
 **Adele** : Okay what&#39;s going to happen Lizzie is you&#39;re going to give me a letter, I&#39;m going to flick through the pages of this great book and then I&#39;m going to pick a word beginning with the letter that you give me and see if you can guess what it means.
 
@@ -154,7 +154,7 @@ title: 'Episode 22: Sex and Relationship Education'
 
 **Adele** : Okay no problem. Okay then we have landed on J and the word is jizzum.
 
-**Hilary: ** I expect you to get this, that&#39;s so easy.
+**Hilary:** I expect you to get this, that&#39;s so easy.
 
 **Lizzie:** It is what I think it is, right?
 
@@ -164,7 +164,7 @@ title: 'Episode 22: Sex and Relationship Education'
 
 **Adele** : Actual definition is a slam term for semen.
 
-**Hilary: ** Dr Stuart obviously we&#39;re not going to leave you out so we&#39;re going to ask you to choose a letter also.
+**Hilary:** Dr Stuart obviously we&#39;re not going to leave you out so we&#39;re going to ask you to choose a letter also.
 
 **Dr Stuart:** I&#39;ll pick the letter P.
 
@@ -172,27 +172,27 @@ title: 'Episode 22: Sex and Relationship Education'
 
 **Dr Stuart:** PDA? Personal… I haven&#39;t heard that before – PDA?
 
-**Hilary: ** We might have a new definition here.
+**Hilary:** We might have a new definition here.
 
 **Lizzie:** Do I just say it? Or…
 
-**Hilary: ** What is the A part?
+**Hilary:** What is the A part?
 
 **Lizzie:** Affection.
 
-**Hilary: ** Okay… Dr Stuart do you think you know it now?
+**Hilary:** Okay… Dr Stuart do you think you know it now?
 
 **Dr Stuart:** No. I&#39;ve got a huge gap haven&#39;t I, in my experience or knowledge or both.
 
-**Hilary: ** Lizzie do you want to give the…
+**Hilary:** Lizzie do you want to give the…
 
 **Dr Stuart:** Public display of affection ah got it… I suppose it could be sexy in the right circumstances.
 
-**Hilary: ** That&#39;s right a colloquial American abbreviation for public display of affection which may include necking and petting.
+**Hilary:** That&#39;s right a colloquial American abbreviation for public display of affection which may include necking and petting.
 
 **Dr Stuart:** Or dogging?
 
-**Hilary: ** Indeed.
+**Hilary:** Indeed.
 
 **Voice Over:** Sex talk. Word porn.
 
@@ -216,17 +216,17 @@ title: 'Episode 22: Sex and Relationship Education'
 
 **Natasha:** What are the symptoms?
 
-**Hilary: ** Well they said STD, it&#39;s actually STIs now isn&#39;t it.
+**Hilary:** Well they said STD, it&#39;s actually STIs now isn&#39;t it.
 
 **Dr Stuart:** It is STIs Hilary, you are learning.
 
-**Hilary: ** Thanks to you Dr Stuart. Do you want to take that one first?
+**Hilary:** Thanks to you Dr Stuart. Do you want to take that one first?
 
 **Dr Stuart:** Yeah so first of all to say that lots of STIs present without any symptoms so for example chlamydia which is one of the most common STIs in about 80% of women they&#39;ll have no symptoms until it&#39;s progressed and has been around for a long time but the common symptoms to look out for maybe pain when you pee, may be unusual discharge so that could be a vaginal discharge, penile discharge. You might see some sores or ulcers on the genital area. They are the main things to watch out for and they&#39;re the main things people will typically come and get a check-up for but it&#39;s a good idea to get a check-up even if you don&#39;t have symptoms if you&#39;ve had any condomless sex or you&#39;ve had a new relationship or a new partner recently.
 
 **Natasha** : What is the most common STD?
 
-**Hilary: ** Lizzie do you know?
+**Hilary:** Lizzie do you know?
 
 **Lizzie:** Chlamydia, and actually most people don&#39;t even know which is a real problem, so we try and get young people thinking about how do they prevent and how do they own their own sexual health. So we use the analogy of going to the dentist so you know if you eat sweets you&#39;re going to have to get your teeth checked out and that&#39;s your own responsibility to look after your teeth, often we don&#39;t think the same way about our sexual health and our genitalia but if we can get into the mind set of preventative work and going for a sexual health check-up before you enter into a relationship then we can pick up things that may not have symptoms, we may have no knowledge of but we&#39;re preventing transmission which is a great way to enter into any relationship is knowing what your score sheet is or however you want to call it. Get treated, get checked, and actually then you can enter into a new relationship in the best possible health.
 
@@ -250,23 +250,23 @@ title: 'Episode 22: Sex and Relationship Education'
 
 **Claire:** Can you fall pregnant when you first have sex?
 
-**Hilary: ** That&#39;s a classic.
+**Hilary:** That&#39;s a classic.
 
 **Adele** : I think I saw this in a film the other day, I can&#39;t remember which film it was but the young girl in the film didn&#39;t know the answer to this.
 
-**Hilary: ** This actually happened in my family. One of my uncle&#39;s said &#39;I only went there once!&#39; My grandad said &#39;that&#39;s enough, you are responsible&#39;.
+**Hilary:** This actually happened in my family. One of my uncle&#39;s said &#39;I only went there once!&#39; My grandad said &#39;that&#39;s enough, you are responsible&#39;.
 
 **Adele** : So it happens to girls and boys.
 
 **Lizzie:** And sadly that&#39;s not a surprising question, lots of people don&#39;t think it happens that way and actually it takes two to tango but it only takes one time and yeah. It amazes me how many young people that still surprises. And adults sometimes are still surprised by that.
 
-**Hilary: ** Can you get pregnant from pre-cum?
+**Hilary:** Can you get pregnant from pre-cum?
 
 **Dr Stuart:** Yes. So anytime there&#39;s sperm that can meet egg, it only takes one sperm to meet one egg so there are sperm in there, thousands of them so there&#39;s a possibility one of them will hit an egg if it&#39;s around.
 
 **McKayla:** Is it dangerous if you have sex on your period?
 
-**Adele** : Dangerous is an interesting use of word.
+**Adele**: Dangerous is an interesting use of word.
 
 **Lizzie:** It&#39;s interesting how fear and danger feed into so much sex education and that&#39;s kind of learned and we know there&#39;s actually lots of benefits to having sex on your period and actually there&#39;s lots of endorphins and pain relief and lots of different things that can be good so from a pleasure side no it&#39;s not dangerous. I don&#39;t know if you have anything to add from a medical side?
 
@@ -290,16 +290,16 @@ title: 'Episode 22: Sex and Relationship Education'
 
 **Lizzie:** For me there&#39;s a couple of things. At the moment LGBT inclusion is seen as nice to have, or you could possibly do that, it&#39;s not good enough it needs to be in there and needs to be a given. We have the equality act and the law to back up why you have to truly be inclusive. From primary school seeing for example same sex parents through to sex acts that involve whatever genders, that&#39;s really important. The other thing for me that&#39;s so important is children need to learn this. It shouldn&#39;t be that parents can remove them from it, because as the guidance currently stands that&#39;s out for consultation, a parent can remove a child from sex education. How does a young person that&#39;s potentially been exposed to abuse recognise that that&#39;s abuse? If you don&#39;t know actually and you&#39;ve not been taught where those boundaries are, what possibly verges on not being safe and what is abusive the cycle perpetuates, so actually for me it&#39;s important that young people are given the chance to learn and for me it doesn&#39;t mean that a parent should be able to remove them from that.
 
-**Hilary: ** A really good point, in terms of safe guarding.
+**Hilary:** A really good point, in terms of safe guarding.
 
 **Dr Stuart:** I suppose from my point of view I&#39;d just add about healthy relationships generally and the importance of consent because that&#39;s been something that we&#39;ve been thinking a lot about in the last 18 months, just, and it&#39;s something that needs to start with young people I think because they are going to be the adults of the future of the next 10, 20 years and I think it&#39;s really important we make a massive impact at this point when we&#39;ve got this opportunity to say a healthy relationship is one that is completely consensual with all parties involved.
 
-**Hilary: ** For people that are listening to this, especially those who work with young people, what would you like to say?
+**Hilary:** For people that are listening to this, especially those who work with young people, what would you like to say?
 
 **Lizzie:** I think grab the opportunity to feed into the consultation. It&#39;s open till the 7th of
  November and we know we&#39;ve got young people here who are older than the guidance and that&#39;s just never right, so if this guidance is going to be around and set the tone for the next 20 years we need to get it right, so it&#39;s our opportunity to feed into it. Go online – you don&#39;t have to answer all the questions, just feed into the ones that are important to you and there&#39;s some great examples for example on Stonewall and the sex education forum where you can go to and they&#39;ll show you what they feel is important and you can feed that into your response.
 
-**Hilary: ** Can I ask in terms of the ongoing consultation, can young people feed into that as well or?
+**Hilary:** Can I ask in terms of the ongoing consultation, can young people feed into that as well or?
 
 **Lizzie:** Yes there&#39;s two different versions and one is for young people to feed into.
 
@@ -311,7 +311,7 @@ title: 'Episode 22: Sex and Relationship Education'
 
 **Lizzie:** If you can go to the head teacher and the governors that&#39;s where you need to start. Go to the top and demand that because you deserve it.
 
-**Hilary: ** Maybe hashtag start something – twitter hashtag, like the Me Too campaign.
+**Hilary:** Maybe hashtag start something – twitter hashtag, like the Me Too campaign.
 
 **Adele** : This is why it&#39;s so important though because the only time you both have been speechless today is on that point, there isn&#39;t any help for these young people. Unfortunately we&#39;re out of time on this edition of Sex Talk, but we just want to say a massive thank you to you guys, Dr Stuart and Lizzie
 
@@ -322,7 +322,7 @@ title: 'Episode 22: Sex and Relationship Education'
 **Adele** : Unfortunately that&#39;s all we&#39;ve got time for on this edition of Sex Talk
 
 
-**Hilary: ** If you have been affected by any of the issues raised in this episode of Sex Talk, you can contact your GP. They should provide out of hours contact details for emergency calls.
+**Hilary:** If you have been affected by any of the issues raised in this episode of Sex Talk, you can contact your GP. They should provide out of hours contact details for emergency calls.
 
 **Adele** : Brook are an amazing sexual health charity for under 25&#39;s. You can find out loads of information, including where your nearest sexual health service is by visiting their website,[www.brook.org.uk/](http://www.brook.org.uk/)
 
