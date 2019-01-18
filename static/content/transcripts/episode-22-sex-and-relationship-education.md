@@ -4,7 +4,6 @@ title: 'Episode 22: Sex and Relationship Education'
 ---
 
 
-
 **Voice Over:** You&#39;re listening to sex talk, a podcast all about sex. In this episode expect to hear some colourful language and conversations of a sexual nature. You may want to pop on a pair of headphones for some privacy during this podcast.
 
 **Voice Over:** Sex talk. Coming up on this episode of Sex Talk:
